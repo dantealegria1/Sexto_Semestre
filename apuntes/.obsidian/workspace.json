@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "aaeca19303dd52fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9886a01b02ea334a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d936b681d9a03ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos/Registros de procesos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ee49ec31cf8eaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etica/Distinción entre hombre y humano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71197207d685eeaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68f89b5aef511bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c9e7db5845c3142",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f47c7c2e6954afd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc23a008173d963f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "34068af95d38e5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc04742de68a7f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ad4ba566727341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Etica/Distinción entre hombre y humano.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55338cb00a88de66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Etica/Distinción entre hombre y humano.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8bd9c5d17923a2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2c59e4a279d0179",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Etica/Distinción entre hombre y humano.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ee49ec31cf8eaf1",
+  "lastOpenFiles": [
+    "Etica/Distinción entre hombre y humano.md",
+    "Sistemas_Operativos/Registros de procesos.md",
+    "Etica",
+    "Sistemas_Operativos/Introducción a los sistemas operativos.md",
+    "Sistemas_Operativos/imagenes",
+    "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
+    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+    "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
+    "Investifacion de operaciones/Contexto histórico.md",
+    "Investifacion de operaciones/Untitled.md",
+    "Investifacion de operaciones",
+    "Aprendizaje inteligente",
+    "Sistemas_Operativos/Componentes de unna pc.jpg",
+    "Sistemas_Operativos/Componentes de unna pc.jpg.crdownload",
+    "Sistemas_Operativos/Componenttes de una computtadora.png",
+    "Pasted image 20240130185203.png",
+    "Welcome.md",
+    "Sistemas_Operativos"
+  ]
+}
