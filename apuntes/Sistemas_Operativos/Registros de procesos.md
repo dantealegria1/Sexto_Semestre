@@ -1,4 +1,4 @@
-31/01/24
+### 31/01/24
 
 Es una abstracción de un programa en ejecución también se le llama tareas. Hay muchas definiciones:
 
@@ -71,3 +71,4 @@ Nivel 5
 Nivel 7
 - Copias de seguridad 
 
+Siguiente apunte -> [[Memoria cache]]

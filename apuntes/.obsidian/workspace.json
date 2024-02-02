@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9886a01b02ea334a",
+        "id": "ba5b000eef1fd85e",
         "type": "tabs",
         "children": [
           {
-            "id": "4d936b681d9a03ad",
+            "id": "a8aba44eea2b206e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93e1789a664d5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efcfc8de410f61a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +44,31 @@
             }
           },
           {
-            "id": "1ee49ec31cf8eaf1",
+            "id": "a335a9df04a8ddc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etica/Distinción entre hombre y humano.md",
+                "file": "Sistemas_Operativos/Registros de procesos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db96e13dac350cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etica/Distinción entre hombre y humano.md",
+                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etica/Distinción entre hombre y humano.md",
+                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etica/Distinción entre hombre y humano.md"
+                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md"
               }
             }
           }
@@ -159,17 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ee49ec31cf8eaf1",
+  "active": "db96e13dac350cca",
   "lastOpenFiles": [
-    "Etica/Distinción entre hombre y humano.md",
-    "Sistemas_Operativos/Registros de procesos.md",
-    "Etica",
+    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
     "Sistemas_Operativos/Introducción a los sistemas operativos.md",
+    "Sistemas_Operativos/Registros de procesos.md",
+    "Sistemas_Operativos/Memoria cache.md",
+    "Investifacion de operaciones/Contexto histórico.md",
+    "Etica/Distinción entre hombre y humano.md",
+    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+    "2024-02-01.md",
+    "Etica",
     "Sistemas_Operativos/imagenes",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
-    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
     "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
-    "Investifacion de operaciones/Contexto histórico.md",
     "Investifacion de operaciones/Untitled.md",
     "Investifacion de operaciones",
     "Aprendizaje inteligente",

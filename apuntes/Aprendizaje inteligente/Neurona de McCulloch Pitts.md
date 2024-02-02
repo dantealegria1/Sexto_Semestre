@@ -1,0 +1,1 @@
+Propuesto en 1943 y solo tiene 0s y 1s 

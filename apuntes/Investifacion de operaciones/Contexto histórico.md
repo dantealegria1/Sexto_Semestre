@@ -1,3 +1,4 @@
+### 31/01/24
 "Utiliza un enfoque planeado (utilizado científico) y un grupo interdisciplinario a fin de representar las complicadas relaciones funcionales como modelos informáticos para suministrar una base competitiva para la toma de decisiones y describir nuevos problemas para su análisis cualitativo"
 - RJ thieraut, R A Grosse - 1975
 
