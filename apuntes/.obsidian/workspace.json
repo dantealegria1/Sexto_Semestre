@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8aba44eea2b206e",
+            "id": "68207c35d16c88e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b93e1789a664d5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efcfc8de410f61a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos/Registros de procesos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a335a9df04a8ddc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos/Registros de procesos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db96e13dac350cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje inteligente/From Knowledge to knowledge representation.md"
+                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md"
               }
             }
           }
@@ -195,21 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db96e13dac350cca",
+  "active": "68207c35d16c88e4",
   "lastOpenFiles": [
-    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+    "Sistemas_Operativos/Tipos de RAM y ROM.md",
+    "Investifacion de operaciones/Contexto histórico.md",
+    "Sistemas_Operativos/Memoria cache.md",
     "Sistemas_Operativos/Introducción a los sistemas operativos.md",
     "Sistemas_Operativos/Registros de procesos.md",
-    "Sistemas_Operativos/Memoria cache.md",
-    "Investifacion de operaciones/Contexto histórico.md",
-    "Etica/Distinción entre hombre y humano.md",
     "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+    "Investifacion de operaciones/Clasificacion de modelos.md",
+    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+    "Etica/Distinción entre hombre y humano.md",
     "2024-02-01.md",
     "Etica",
     "Sistemas_Operativos/imagenes",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
     "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
-    "Investifacion de operaciones/Untitled.md",
     "Investifacion de operaciones",
     "Aprendizaje inteligente",
     "Sistemas_Operativos/Componentes de unna pc.jpg",

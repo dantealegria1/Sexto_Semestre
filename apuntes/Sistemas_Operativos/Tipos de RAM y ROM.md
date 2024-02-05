@@ -1,0 +1,43 @@
+## RAM
+
+La RAM es un banco de memoria temporal donde el ordenador almacena los datos que necesita recuperar rápidamente. Es un área de trabajo del software de una computadora. Es muy rápida y generalmente volátil, ya que pierde su información cuando no recibe corriente y es usada por el sistema operativo y los programas del PC para cargar instrucciones que luego ejecutará el procesador
+
+- ### SRAM
+	- Sus siglas significan: *memoria de acceso aleatoria estática*
+	- A menudo se usa como memoria caché para el procesador (CPU) por su gran velocidad
+	- Utiliza tecnología de semiconductores para almacenar información.
+	- es un tipo de memoria de computadora volátil
+	- Conserva la información mientras esté conectada la tensión de alimentación
+
+- ### DRAM
+	- Sus siglas significan: *Memoria de acceso aleatoria dinámica*
+	- Resulta más económica que la SRAM
+	-  Se emplea como elemento principal de memoria en la mayoría de las computadoras
+	- Es levemente mas lenta que la SRAM
+
+- ### NVRAM
+	- Sus siglas significan: *Non-Volatile Random Access Memory*
+	- Puede retener datos incluso cuando no hay energía eléctrica
+	- Es una solución popular que utilizan las bases de datos en memoria para lograr la durabilidad de los datos
+	- Su utilidad esta en el almacenamiento de configuraciones y su fácil y rápido acceso
+
+## ROM
+
+La memoria ROM se utiliza para almacenar datos que no cambian o que lo hacen poco en el tiempo, como por ejemplo el sistema de arranque del dispositivo o BIOS. Además, no se borra aunque el dispositivo se apague o quede sin energía
+
+- ### PROM
+	- Sus siglas significan: *memoria programable de solo lectura*
+	- es un tipo de ROM que se puede programar con información específica antes de ser utilizada
+	- El valor de cada bit depende del estado de un fusible (o anti fusible), que puede ser quemado una sola vez
+	- Los PROM son generalmente pastillas de circuitos integrados
+
+- ### EPROM
+	- Sus siglas significan: *Erasable Programmable Read-Only Memory*
+	- Lo invento Intel
+	- Las EPROM se programan mediante impulsos eléctricos y su contenido se borra exponiéndolas a la luz ultravioleta
+	- Pueden ser reprogramadas si antes se borra el programa existente
+
+- ## EEPROM
+	- Sus siglas significan: *Electrically Erasable Programmable Read-Only Memory*
+	- Puede ser programada, borrada y reprogramada eléctricamente
+	- Se utilizan en aplicaciones de tablas de calibración de sensores, llaves digitales y dispositivos adaptivos

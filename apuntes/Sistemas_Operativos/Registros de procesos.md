@@ -48,7 +48,7 @@ El punto central o parte mas importante ya que tiene el control de la maquina. E
 - Cache N2
 - Disco duro o memoria secundaria
 - Registros
-
+[[Tipos de RAM y ROM]]
 ### Prioridades del sistema
 
 Entre mas arriba en la jerarquía es mas caro por byte
