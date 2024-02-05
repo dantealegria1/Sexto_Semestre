@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5b000eef1fd85e",
+        "id": "c1e82158f5d7d9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "68207c35d16c88e4",
+            "id": "f1e0713972e00594",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac9b87566ef98c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Direccion de la carpeta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md",
+                "file": "Direccion de la carpeta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md",
+                "file": "Direccion de la carpeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md"
+                "file": "Direccion de la carpeta.md"
               }
             }
           }
@@ -146,9 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68207c35d16c88e4",
+  "active": "ac9b87566ef98c7e",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Sistemas_Operativos/Tipos de RAM y ROM.md",
+    "Teoria de la complejidad computacional",
+    "Sistemas_Operativos/Tipos de RAM y ROM.pdf",
+    "Direccion de la carpeta.md",
     "Investifacion de operaciones/Contexto histórico.md",
     "Sistemas_Operativos/Memoria cache.md",
     "Sistemas_Operativos/Introducción a los sistemas operativos.md",

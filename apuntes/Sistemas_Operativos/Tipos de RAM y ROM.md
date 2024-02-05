@@ -41,3 +41,8 @@ La memoria ROM se utiliza para almacenar datos que no cambian o que lo hacen poc
 	- Sus siglas significan: *Electrically Erasable Programmable Read-Only Memory*
 	- Puede ser programada, borrada y reprogramada eléctricamente
 	- Se utilizan en aplicaciones de tablas de calibración de sensores, llaves digitales y dispositivos adaptivos
+## Bibliografías
+- _Explicación sobre los diferentes tipos de RAM_. (s. f.). Crucial. https://www.crucial.mx/articles/about-memory/different-types-of-memory-explained
+- Fernández, Y. (2024, 25 enero). _Memoria RAM: qué es, para qué sirve y cómo mirar cuánta tiene tu ordenador o móvil_. Xataka. https://www.xataka.com/basics/memoria-ram-que-sirve-como-mirar-cuanta-tiene-tu-ordenador-movil
+- Santos, M. D. (2023, 23 junio). EPROM: Qué es y cómo funciona esta memoria programable. - Polaridad.es. _Polaridad.es_. https://polaridad.es/eprom-que-es-y-como-funciona-esta-memoria-programable/
+- colaboradores de Wikipedia. (2024, 1 febrero). _Memoria de acceso aleatorio_. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Memoria_de_acceso_aleatorio
