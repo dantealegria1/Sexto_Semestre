@@ -1,5 +1,10 @@
 {
   "accentColor": "#6e4ccd",
-  "baseFontSize": 19,
-  "cssTheme": "Minimal"
+  "baseFontSize": 22,
+  "cssTheme": "Typewriter",
+  "enabledCssSnippets": [
+    "graph-view"
+  ],
+  "translucency": true,
+  "nativeMenus": true
 }

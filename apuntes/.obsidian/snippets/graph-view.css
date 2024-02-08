@@ -1,0 +1,24 @@
+/* Establecer colores de nodo en la vista de gráfico */
+.theme-dark .graph-view.color-fill {
+    background-color: verde;
+}
+
+.theme-dark .graph-view.color-fill-unresolved {
+    background-color: rojo;
+}
+
+.theme-dark .graph-view.color-fill-tag {
+    background-color: azul;
+}
+
+.theme-light .graph-view.color-fill {
+    background-color: verde;
+}
+
+.theme-light .graph-view.color-fill-unresolved {
+    background-color: rojo;
+}
+
+.theme-light .graph-view.color-fill-tag {
+    background-color: azul;
+}
