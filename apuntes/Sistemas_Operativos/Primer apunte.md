@@ -14,4 +14,3 @@ El sistema operativo es el que controla todos los dispositivos del PC
 
 ![[Componentes de la computadora.png]]
 
-Siguiente apuntes -> [[Registros de procesos]]

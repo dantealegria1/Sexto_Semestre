@@ -11,7 +11,7 @@
 -Emerich Coreth
 ### Humano
 - Al nacer inicia la humanización al integrarnos en una cultura particular
-- Se da así una programación cultural. La programación cultural se nos da al decirnos como actuar, ahí entra la moral
+- Se da así una programación cultural. La programación cultural se nos da al decirnos como actuar, ahí entra la moral [[Qué más se puede decir de la ética y la moral]]
 - Se desarrolla la conciencia, se nos empieza a educar con ciertos valores y empezamos a desarrollar una capacidad para racionalizar. Empiezo a cuestionar
 - Libertad, lleva a una reprogramación cultural
 - Actos humanos, a diferencia de los actos del hombre no se deja llevar por sus impulsos

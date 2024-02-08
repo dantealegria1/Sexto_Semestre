@@ -70,5 +70,3 @@ Nivel 5
 - Disco duro o memoria secundaria (USB, Disco externo etc.)
 Nivel 7
 - Copias de seguridad 
-
-Siguiente apunte -> [[Memoria cache]]

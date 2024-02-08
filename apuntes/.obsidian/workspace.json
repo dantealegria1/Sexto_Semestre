@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e82158f5d7d9e8",
+        "id": "adda94f9954e2ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e0713972e00594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos/Tipos de RAM y ROM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac9b87566ef98c7e",
+            "id": "d940cae4d3a880b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47feb823e5cf403a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,21 +154,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac9b87566ef98c7e",
+  "active": "d940cae4d3a880b3",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
+    "Sistemas_Operativos/Sistemas Operativos.md",
+    "Sistemas_Operativos/Primer apunte.md",
+    "Sistemas_Operativos/Técnicas de comunicación de I,O.md",
+    "Etica/Distinción entre hombre y humano.md",
+    "Etica/Qué más se puede decir de la ética y la moral.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
+    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
+    "Sistemas_Operativos/Interrupciones.md",
+    "Sistemas_Operativos/Registros de procesos.md",
+    "Sistemas_Operativos/Memoria cache.md",
+    "Aprendizaje inteligente/Aprendizaje inteligente.md",
     "Sistemas_Operativos/Tipos de RAM y ROM.md",
-    "Teoria de la complejidad computacional",
     "Sistemas_Operativos/Tipos de RAM y ROM.pdf",
     "Direccion de la carpeta.md",
-    "Investifacion de operaciones/Contexto histórico.md",
-    "Sistemas_Operativos/Memoria cache.md",
-    "Sistemas_Operativos/Introducción a los sistemas operativos.md",
-    "Sistemas_Operativos/Registros de procesos.md",
-    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
-    "Investifacion de operaciones/Clasificacion de modelos.md",
     "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-    "Etica/Distinción entre hombre y humano.md",
+    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+    "Investifacion de operaciones/Contexto histórico.md",
+    "Investifacion de operaciones/Clasificacion de modelos.md",
+    "Untitled.canvas",
+    "[[Qué.md",
+    "().md",
+    "Teoria de la complejidad computacional",
     "2024-02-01.md",
     "Etica",
     "Sistemas_Operativos/imagenes",

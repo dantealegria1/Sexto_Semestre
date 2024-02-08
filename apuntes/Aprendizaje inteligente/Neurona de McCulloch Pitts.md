@@ -27,4 +27,4 @@ No lo acepta
 
 ### **Cuarto Caso**
 $$ Y = I(1(1)+1(1)) > 1.1$$
-Si lo acepta
+Si lo aceptakkxjflfcnvbnnaljnxcidvi
