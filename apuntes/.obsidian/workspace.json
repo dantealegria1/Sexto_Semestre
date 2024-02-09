@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d940cae4d3a880b3",
+            "id": "5ef7eb9ac82ad363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
+                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2539fa3ae1ff7069",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
+                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
+                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Introduccion a los sistemas operativos.md"
+                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md"
               }
             }
           }
@@ -155,16 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d940cae4d3a880b3",
+  "active": "5ef7eb9ac82ad363",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Sistemas Operativos.md",
+    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
+    "Sistemas_Operativos/Presentacion.md",
+    "Sistemas_Operativos/Presentacion.pdf",
     "Sistemas_Operativos/Interrupciones.md",
     "Sistemas_Operativos/Memoria cache.md",
     "Sistemas_Operativos/Registros de procesos.md",
     "Sistemas_Operativos/Técnicas de comunicación de I,O.md",
-    "Sistemas_Operativos/Sistemas Operativos.md",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
-    "Teoria de la complejidad computacional/Big O.md",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
     "Sistemas_Operativos/Primer apunte.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
@@ -194,7 +188,6 @@
     "Sistemas_Operativos/Componentes de unna pc.jpg.crdownload",
     "Sistemas_Operativos/Componenttes de una computtadora.png",
     "Pasted image 20240130185203.png",
-    "Welcome.md",
-    "Sistemas_Operativos"
+    "Welcome.md"
   ]
 }

@@ -3,7 +3,7 @@
   "baseFontSize": 22,
   "cssTheme": "Typewriter",
   "enabledCssSnippets": [
-    "graph-view"
+    "obsidian"
   ],
   "translucency": true,
   "nativeMenus": true
