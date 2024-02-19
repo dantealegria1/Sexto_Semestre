@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "adda94f9954e2ed0",
+        "id": "dd77edc26416de9f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef7eb9ac82ad363",
+            "id": "cd4df59f558cd300",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c45f1662d264f7c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+                "file": "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -86,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +150,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ef7eb9ac82ad363",
+  "active": "cd4df59f558cd300",
   "lastOpenFiles": [
-    "Sistemas_Operativos/Sistemas Operativos.md",
     "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
+    "Aprendizaje inteligente/Aprendizaje inteligente.md",
+    "Etica/Ética y Genero.md",
+    "Etica/Ética Profesional.md",
+    "Direccion de la carpeta.md",
+    "NVIM.md",
+    "Etica/Distinción entre hombre y humano.md",
+    "Etica/Qué más se puede decir de la ética y la moral.md",
+    "Sistemas_Operativos/Sistemas Operativos.md",
     "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
     "Sistemas_Operativos/Presentacion.md",
     "Sistemas_Operativos/Presentacion.pdf",
@@ -162,15 +174,9 @@
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
     "Sistemas_Operativos/Primer apunte.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
-    "Direccion de la carpeta.md",
-    "Etica/Distinción entre hombre y humano.md",
-    "Etica/Qué más se puede decir de la ética y la moral.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
-    "Aprendizaje inteligente/Aprendizaje inteligente.md",
     "Sistemas_Operativos/Tipos de RAM y ROM.md",
     "Sistemas_Operativos/Tipos de RAM y ROM.pdf",
-    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
     "Investifacion de operaciones/Contexto histórico.md",
     "Investifacion de operaciones/Clasificacion de modelos.md",
     "Untitled.canvas",

@@ -48,4 +48,17 @@ Actuar contra la moral socialmente establecida ya sea por capricho, por maldad o
 Ejemplo:
 - *El matrimonio infantil*
 
+## Ética
 
+ Rama de la filosofía que se ocupa de reflexionar en torno a la moral, en torno a los valores.
+ Toda consideración ética se refiere a la persona viviendo en sociedad
+ Es la suma de esfuerzos racionales para encontrar las mejores pautas de comportamiento, acordes con la dignidad de la persona, del bien común y de la naturaleza.
+ 
+ Existe la ***ética aplicada*** haciendo referencia a que surgen de la vida diaria. Ejemplos:
+  - *Ética profesional 
+  - *Ética empresarial*
+  - Ética del medio ambiente
+  - *Bioética*
+  - *Ética informática*
+  
+  *“Lo ético surge cuando alguien empieza  a ver que debe posponer sus deseos inmediatos a favor del bien”* Mary Warnock.

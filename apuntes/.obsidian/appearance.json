@@ -1,10 +1,12 @@
 {
-  "accentColor": "#6e4ccd",
-  "baseFontSize": 22,
+  "accentColor": "#6db378",
+  "baseFontSize": 16,
   "cssTheme": "Typewriter",
   "enabledCssSnippets": [
     "obsidian"
   ],
   "translucency": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "interfaceFontFamily": "Hack Nerd Font Mono",
+  "textFontFamily": "Hack Nerd Font"
 }
