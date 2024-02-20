@@ -29,5 +29,4 @@ Se traduce en desigualdad jurídica social y política
 ## Nuevas masculinidades
 
 La masculinidad hegemónica son los estereotipos
-
-***LEER PAGINA 7-17 DEL LIBRO QUE HACEMOS CON LAS MACULINIDADES
+Las nuevas masculinidades retan este modelo hegemónico quitando los privilegios

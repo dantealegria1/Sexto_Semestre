@@ -11,8 +11,12 @@
             "id": "cd4df59f558cd300",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Etica/Ética y Genero.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Etica/Ética y Genero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Etica/Ética y Genero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Etica/Ética y Genero.md"
+              }
             }
           }
         ]
@@ -152,22 +160,28 @@
   },
   "active": "cd4df59f558cd300",
   "lastOpenFiles": [
+    "Etica/Distinción entre hombre y humano.md",
+    "Etica/1708434521-HRIS.md",
+    "Etica/Ética y Genero.md",
+    "Sistemas_Operativos/Evolucion_SO.md",
+    "Sistemas_Operativos/Memoria cache.md",
+    "NVIM.md",
+    "Direccion de la carpeta.md",
+    "Sistemas_Operativos/Interrupciones.md",
+    "Emprendedores/segmento del mercado.md",
+    "1708354075-YYTA.md",
+    "1708318182-RVTY.md",
+    "1708354075-YYTA.md~",
+    "Etica/Qué más se puede decir de la ética y la moral.md",
     "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
     "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
     "Aprendizaje inteligente/Aprendizaje inteligente.md",
-    "Etica/Ética y Genero.md",
     "Etica/Ética Profesional.md",
-    "Direccion de la carpeta.md",
-    "NVIM.md",
-    "Etica/Distinción entre hombre y humano.md",
-    "Etica/Qué más se puede decir de la ética y la moral.md",
     "Sistemas_Operativos/Sistemas Operativos.md",
     "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
     "Sistemas_Operativos/Presentacion.md",
     "Sistemas_Operativos/Presentacion.pdf",
-    "Sistemas_Operativos/Interrupciones.md",
-    "Sistemas_Operativos/Memoria cache.md",
     "Sistemas_Operativos/Registros de procesos.md",
     "Sistemas_Operativos/Técnicas de comunicación de I,O.md",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
@@ -178,12 +192,8 @@
     "Sistemas_Operativos/Tipos de RAM y ROM.md",
     "Sistemas_Operativos/Tipos de RAM y ROM.pdf",
     "Investifacion de operaciones/Contexto histórico.md",
-    "Investifacion de operaciones/Clasificacion de modelos.md",
     "Untitled.canvas",
-    "[[Qué.md",
-    "().md",
     "Teoria de la complejidad computacional",
-    "2024-02-01.md",
     "Etica",
     "Sistemas_Operativos/imagenes",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
@@ -191,9 +201,7 @@
     "Investifacion de operaciones",
     "Aprendizaje inteligente",
     "Sistemas_Operativos/Componentes de unna pc.jpg",
-    "Sistemas_Operativos/Componentes de unna pc.jpg.crdownload",
     "Sistemas_Operativos/Componenttes de una computtadora.png",
-    "Pasted image 20240130185203.png",
-    "Welcome.md"
+    "Pasted image 20240130185203.png"
   ]
 }
