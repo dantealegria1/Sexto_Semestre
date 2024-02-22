@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "dd77edc26416de9f",
+        "id": "17e55cb51fe52287",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4df59f558cd300",
+            "id": "05c31cf0d17996ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Etica/Ética y Genero.md",
-                "mode": "source",
-                "source": false
+                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+                "viewState": {
+                  "x": 35,
+                  "y": 180.32017151970697,
+                  "zoom": -1.324905932595345
+                }
               }
             }
           },
           {
-            "id": "c45f1662d264f7c2",
+            "id": "559a3dfe9433f3d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -50,7 +49,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etica/Ética y Genero.md",
+                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etica/Ética y Genero.md",
+                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etica/Ética y Genero.md"
+                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas"
               }
+            }
+          },
+          {
+            "id": "89fdbfdee53fd584",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -150,56 +157,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cd4df59f558cd300",
+  "active": "05c31cf0d17996ec",
   "lastOpenFiles": [
-    "Etica/Distinción entre hombre y humano.md",
-    "Etica/1708434521-HRIS.md",
-    "Etica/Ética y Genero.md",
-    "Sistemas_Operativos/Evolucion_SO.md",
-    "Sistemas_Operativos/Memoria cache.md",
-    "NVIM.md",
-    "Direccion de la carpeta.md",
-    "Sistemas_Operativos/Interrupciones.md",
-    "Emprendedores/segmento del mercado.md",
-    "1708354075-YYTA.md",
-    "1708318182-RVTY.md",
-    "1708354075-YYTA.md~",
-    "Etica/Qué más se puede decir de la ética y la moral.md",
-    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
-    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+    "Sistemas_Operativos/Unix.md",
+    "Recording 20240222120622.webm",
     "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
     "Aprendizaje inteligente/Aprendizaje inteligente.md",
-    "Etica/Ética Profesional.md",
+    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
+    "Etica/Distinción entre hombre y humano.md",
+    "Emprendedores/segmento del mercado.md",
+    "Direccion de la carpeta.md",
+    "1708354075-YYTA.md",
+    "1708318182-RVTY.md",
+    "Emprendedores/Tarea 1.pdf",
+    "Etica/Juicios morales éticos....md",
+    "Etica/Qué más se puede decir de la ética y la moral.md",
+    "Etica/Ética y Genero.md",
+    "NVIM.md",
+    "Aprendizaje inteligente/Extra.md",
+    "Red neuronal.png",
     "Sistemas_Operativos/Sistemas Operativos.md",
+    "2024-02-21.md",
+    "Untitled 1.canvas",
+    "Sistemas_Operativos/Evolucion_SO.md",
+    "Sistemas_Operativos/Interrupciones.md",
+    "Etica/Ética Profesional.md",
+    "Etica/1708434521-HRIS.md",
+    "Sistemas_Operativos/Memoria cache.md",
+    "1708354075-YYTA.md~",
     "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
     "Sistemas_Operativos/Presentacion.md",
     "Sistemas_Operativos/Presentacion.pdf",
-    "Sistemas_Operativos/Registros de procesos.md",
-    "Sistemas_Operativos/Técnicas de comunicación de I,O.md",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
-    "Sistemas_Operativos/Primer apunte.md",
-    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
-    "Sistemas_Operativos/Tipos de RAM y ROM.md",
     "Sistemas_Operativos/Tipos de RAM y ROM.pdf",
-    "Investifacion de operaciones/Contexto histórico.md",
-    "Untitled.canvas",
     "Teoria de la complejidad computacional",
     "Etica",
     "Sistemas_Operativos/imagenes",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
     "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
-    "Investifacion de operaciones",
-    "Aprendizaje inteligente",
     "Sistemas_Operativos/Componentes de unna pc.jpg",
     "Sistemas_Operativos/Componenttes de una computtadora.png",
     "Pasted image 20240130185203.png"

@@ -30,3 +30,10 @@ Se traduce en desigualdad jurídica social y política
 
 La masculinidad hegemónica son los estereotipos
 Las nuevas masculinidades retan este modelo hegemónico quitando los privilegios
+
+Dividir la ética
+- Favorecer la solidaridad
+- Ejercicio pleno de la ciudadanía
+- Pertenencia social
+- Terminar con la discriminación
+- Autonomía en la decisión

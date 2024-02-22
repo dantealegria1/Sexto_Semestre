@@ -1,15 +1,8 @@
 /* Ajustar la opacidad del fondo de la zona de notas */
-.markdown-preview-view {
-    background-color: rgba(255, 255, 255, 0.9); /* Ajusta el último valor (0.9) para cambiar la opacidad (0 completamente transparente, 1 completamente opaco) */
-}
 
-/* Opcional: Ajustar la opacidad del fondo de la zona de edición en modo de edición */
-.editor {
-    background-color: rgba(255, 255, 255, 0.9); /* Ajusta el último valor (0.9) para cambiar la opacidad (0 completamente transparente, 1 completamente opaco) */
-}
 
 body {
-    --background-primary: #1c2121!important;
+    /*--background-primary: #1c2121!important;*/
     --titlebar-background: transparent !important;
     --titlebar-background-focused: var(--titlebar-background);
     --text-normal: #f0ead6 !Important;
