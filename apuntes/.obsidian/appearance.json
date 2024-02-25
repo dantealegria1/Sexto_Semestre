@@ -2,12 +2,10 @@
   "accentColor": "#6db378",
   "baseFontSize": 16,
   "cssTheme": "Material Gruvbox",
-  "enabledCssSnippets": [
-    "obsidian"
-  ],
+  "enabledCssSnippets": [],
   "translucency": false,
   "nativeMenus": true,
   "interfaceFontFamily": "Hack Nerd Font Mono",
   "textFontFamily": "Hack Nerd Font",
-  "theme": "obsidian"
+  "theme": "system"
 }

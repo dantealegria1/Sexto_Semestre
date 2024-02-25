@@ -8,26 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05c31cf0d17996ec",
+            "id": "559a3dfe9433f3d7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
                 "viewState": {
-                  "x": 35,
-                  "y": 180.32017151970697,
-                  "zoom": -1.324905932595345
+                  "x": 1983.2260326537776,
+                  "y": -625.3894429655322,
+                  "zoom": -0.29233011317496993
                 }
               }
-            }
-          },
-          {
-            "id": "559a3dfe9433f3d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -80,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -96,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+                "file": "Pasted image 20240223105642.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+                "file": "Pasted image 20240223105642.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas"
+                "file": "Pasted image 20240223105642.png"
               }
             }
           },
@@ -167,14 +160,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "05c31cf0d17996ec",
+  "active": "559a3dfe9433f3d7",
   "lastOpenFiles": [
-    "Sistemas_Operativos/Unix.md",
+    "Sistemas_Operativos/Unidad 1/Unix.md",
+    "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
+    "Sistemas_Operativos/Unidad 1/Primer apunte.md",
+    "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
+    "Sistemas_Operativos/Apuntes.md",
+    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+    "Pasted image 20240223105642.png",
+    "Pasted image 20240223105623.png",
+    "Pasted image 20240223105536.png",
+    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
+    "Aprendizaje inteligente/Aprendizaje inteligente.md",
+    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
+    "Sistemas_Operativos/Unidad 1",
     "Recording 20240222120622.webm",
     "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
-    "Aprendizaje inteligente/Aprendizaje inteligente.md",
-    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Etica/Distinción entre hombre y humano.md",
@@ -189,25 +191,20 @@
     "NVIM.md",
     "Aprendizaje inteligente/Extra.md",
     "Red neuronal.png",
-    "Sistemas_Operativos/Sistemas Operativos.md",
+    "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
     "2024-02-21.md",
     "Untitled 1.canvas",
-    "Sistemas_Operativos/Evolucion_SO.md",
-    "Sistemas_Operativos/Interrupciones.md",
+    "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
+    "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Etica/Ética Profesional.md",
     "Etica/1708434521-HRIS.md",
-    "Sistemas_Operativos/Memoria cache.md",
+    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "1708354075-YYTA.md~",
-    "Sistemas_Operativos/Introduccion a los sistemas operativos.md",
-    "Sistemas_Operativos/Presentacion.md",
-    "Sistemas_Operativos/Presentacion.pdf",
+    "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
-    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
-    "Sistemas_Operativos/Tipos de RAM y ROM.pdf",
     "Teoria de la complejidad computacional",
     "Etica",
-    "Sistemas_Operativos/imagenes",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
     "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
     "Sistemas_Operativos/Componentes de unna pc.jpg",

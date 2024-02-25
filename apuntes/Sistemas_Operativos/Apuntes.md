@@ -1,0 +1,1 @@
+https://eduuaa-my.sharepoint.com/personal/clelia_ruiz_edu_uaa_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fclelia%5Fruiz%5Fedu%5Fuaa%5Fmx%2FDocuments%2F2024%5F01%2FIntroducci%C3%B3n%20a%20SO%20ICI&ga=1

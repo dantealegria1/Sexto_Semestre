@@ -37,10 +37,12 @@ La memoria ROM se utiliza para almacenar datos que no cambian o que lo hacen poc
 	- Las EPROM se programan mediante impulsos eléctricos y su contenido se borra exponiéndolas a la luz ultravioleta
 	- Pueden ser reprogramadas si antes se borra el programa existente
 
-- ## EEPROM
+- ### EEPROM
 	- Sus siglas significan: *Electrically Erasable Programmable Read-Only Memory*
 	- Puede ser programada, borrada y reprogramada eléctricamente
 	- Se utilizan en aplicaciones de tablas de calibración de sensores, llaves digitales y dispositivos adaptivos
+- ### MARK ROM
+	- Este tipo de ROM se caracteriza porque cuando se escriben dato no pueden volver a editarse
 ## Bibliografías
 - _Explicación sobre los diferentes tipos de RAM_. (s. f.). Crucial. https://www.crucial.mx/articles/about-memory/different-types-of-memory-explained
 - Fernández, Y. (2024, 25 enero). _Memoria RAM: qué es, para qué sirve y cómo mirar cuánta tiene tu ordenador o móvil_. Xataka. https://www.xataka.com/basics/memoria-ram-que-sirve-como-mirar-cuanta-tiene-tu-ordenador-movil
