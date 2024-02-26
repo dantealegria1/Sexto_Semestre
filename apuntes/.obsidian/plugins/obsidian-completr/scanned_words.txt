@@ -258,6 +258,8 @@ Terry
 Two
 Totty
 Tercera
+Technology
+Time
 Catalog
 Count
 Contents
@@ -375,6 +377,9 @@ Circuitos
 Cuarta
 Computadoras
 Cada
+Corbato
+CTSS
+Compatible
 Lang
 Length
 LcL
@@ -645,6 +650,7 @@ ejecute
 emuladores
 equipos
 especial
+equipo
 StructTreeRoot
 StructParents
 SEPAZS
@@ -743,6 +749,8 @@ Segunda
 Simultaneous
 Soportan
 Sistemas
+Sharing
+System
 MarkInfo
 Marked
 Metadata
@@ -843,6 +851,7 @@ Multi
 Manejar
 Multiprogramacion
 Multiprocesamiento
+Massachusetts
 true
 ta
 tr
@@ -981,6 +990,7 @@ timesharing
 terminales
 ticamente
 terminal
+terminaba
 ViewerPreferences
 Vj
 VT
@@ -1312,6 +1322,7 @@ FREAX
 Fedora
 Four
 Funciones
+Fernando
 ExtGState
 Ef
 Encoding
@@ -1654,6 +1665,7 @@ IBM
 Interpretaci
 Interpreta
 Interponen
+Institute
 DeviceRGB
 Descent
 Dx
@@ -1899,6 +1911,7 @@ sistemas
 segun
 spooling
 soporte
+sicamente
 Ap
 Ax
 Am
@@ -2083,6 +2096,8 @@ haciendo
 hardware
 hecho
 hacerse
+historia
+hac
 pR
 pZ
 pd
@@ -2286,6 +2301,7 @@ personales
 propio
 permitir
 paralelismo
+permiti
 rx
 ro
 rn
@@ -2829,6 +2845,8 @@ difunden
 destinado
 desarrollada
 distribuidos
+dirigido
+desarroll
 jM
 je
 js
@@ -3484,6 +3502,7 @@ ambiente
 aquina
 aisla
 accesibles
+anterior
 iK
 iS
 iW
@@ -3854,6 +3873,7 @@ npersonas
 nanosegundos
 nica
 nuevo
+nt
 gEQ
 gw
 gclv
@@ -4186,6 +4206,8 @@ conversacional
 consientes
 comunicacion
 crea
+comenzar
+ctico
 JyVD
 Jx
 Jn
@@ -4876,6 +4898,7 @@ Originalmente
 Opensuse
 Organizar
 Operation
+Operativo
 HM
 HHi
 HPZ

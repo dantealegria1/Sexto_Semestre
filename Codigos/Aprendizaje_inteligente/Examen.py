@@ -1,4 +1,5 @@
-# Importamos las librerias necesarias
+
+#---------------- Importamos las librerias necesarias -------------------
 import numpy as np
 
 #-----------------Agregamos los valores de los pesos y thetas----------------
