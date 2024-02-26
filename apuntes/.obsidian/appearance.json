@@ -2,7 +2,9 @@
   "accentColor": "#6db378",
   "baseFontSize": 16,
   "cssTheme": "Material Gruvbox",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "graph-view"
+  ],
   "translucency": false,
   "nativeMenus": true,
   "interfaceFontFamily": "Hack Nerd Font Mono",

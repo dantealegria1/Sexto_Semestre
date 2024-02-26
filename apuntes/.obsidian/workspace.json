@@ -11,14 +11,11 @@
             "id": "559a3dfe9433f3d7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
-                "viewState": {
-                  "x": 1983.2260326537776,
-                  "y": -625.3894429655322,
-                  "zoom": -0.29233011317496993
-                }
+                "file": "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240223105642.png",
+                "file": "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240223105642.png",
+                "file": "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240223105642.png"
+                "file": "Sistemas_Operativos/Unidad 1/Evolucion_SO.md"
               }
             }
           },
@@ -162,12 +159,17 @@
   },
   "active": "559a3dfe9433f3d7",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
+    "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
+    "Sistemas_Operativos/Unidad 1/Presentacion.md",
+    "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
+    "Sistemas_Operativos/Unidad 1/Memoria.md",
+    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
+    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Sistemas_Operativos/Unidad 1/Unix.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
-    "Sistemas_Operativos/Unidad 1/Primer apunte.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
     "Sistemas_Operativos/Apuntes.md",
-    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Pasted image 20240223105642.png",
     "Pasted image 20240223105623.png",
     "Pasted image 20240223105536.png",
@@ -191,14 +193,9 @@
     "NVIM.md",
     "Aprendizaje inteligente/Extra.md",
     "Red neuronal.png",
-    "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
     "2024-02-21.md",
     "Untitled 1.canvas",
     "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
-    "Sistemas_Operativos/Unidad 1/Interrupciones.md",
-    "Etica/Ética Profesional.md",
-    "Etica/1708434521-HRIS.md",
-    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "1708354075-YYTA.md~",
     "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",

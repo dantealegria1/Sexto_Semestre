@@ -85,7 +85,17 @@ def Algoritmo():
     for i in range(10000):
         Cambio_pesos()
         Cambio_theta()
+    print('------------------------------')
+    print('RESULTADOS')
     print("Salida de la neurona 6", Salida_6())
+    print("Error de la neurona 6", Error_6())
+    print('------------------------------')
+    print('PESOS')
+    print('Pesos 1:', pesos1)
+    print('Pesos 2:', pesos2)
+    print('Pesos 3:', pesos3)
+    print('Pesos 4:', pesos4)
+    print('Pesos 5:', pesos5)
 
 # -----------------Comprobamos los resultados-------------------------
 Algoritmo()

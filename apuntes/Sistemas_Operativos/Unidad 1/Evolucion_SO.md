@@ -1,13 +1,4 @@
----
-theme = 'dark'
-id: 1708366374-BIJN
-aliases:
-  - EvolucionSO
-tags: []
----
-
-# EvolucionSO
-
+El primer Sistema Operativo de la historia fue creado en 1956 para un ordenador IBM 704, y básicamente lo único que hacía era comenzar la ejecución de un programa cuando el anterior terminaba
 ### Primera generacion 1945 - 1955
 
 - Carencia del sistema operativo. El programador interactua diretamente con la maquina mediante computadores
@@ -21,6 +12,7 @@ tags: []
  Aparece la independencia de dispositivo
     - El usuario especifica las caracteristicas que requiere los dispositivos
     - El sistema operativo asigna los dispositivos correspondiente segun los requerimientos
+- En **1963**, un equipo del Massachusetts Institute of Technology dirigido por Fernando Corbato desarrolló el sistema CTSS (Compatible Time Sharing System), que fue el primer sistema operativo práctico que permitió a varios usuarios ejecutar varios programas diferentes desde terminales.
 
 ### Tercera Generacion 1965 - 1980
 
@@ -68,3 +60,5 @@ Sistemas operativos distribuidos
 - Enfasis en la seguridad en especial para desarrollo de comunicacion de datos
 - EL S.O crea un ambiente de trabaho segun el concepto de la aquina virtual que lo aisla del funcionamiento interno de la maquina
 - Proliferacion de sistema de base de datos accesibles mediante redes de comunicacion
+
+Windows nt se creo en 1993
