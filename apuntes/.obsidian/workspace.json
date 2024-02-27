@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "17e55cb51fe52287",
+        "id": "15ebf45450a7b184",
         "type": "tabs",
         "children": [
           {
-            "id": "559a3dfe9433f3d7",
+            "id": "b282de36e74096cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
-                "viewState": {
-                  "x": 248.1377728520522,
-                  "y": -179.2026506777186,
-                  "zoom": -1.199508565726903
-                }
+                "file": "Teoria de la complejidad computacional/Big O.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "49549d42381f67f4",
+            "id": "cc255f43be4cd60c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizaje inteligente/Aprendizzaje inteligente.canvas"
+                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md"
               }
             }
           },
@@ -167,30 +170,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "559a3dfe9433f3d7",
+  "active": "cc255f43be4cd60c",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
+    "Teoria de la complejidad computacional/Big O.md",
+    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+    "Pasted image 20240226185744.png",
+    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Sistemas_Operativos/Apuntes.md",
+    "Etica/Ética Profesional.md",
+    "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
+    "Pasted image 20240226122619.png",
+    "Imagenes/Pasted image 20240223105623.png",
+    "Imagenes",
+    "Imagenes/Pasted image 20240223105642.png",
+    "Imagenes/Pasted image 20240223105536.png",
+    "Imagenes/Recording 20240222120622.webm",
+    "Untitled.md",
+    "Sistemas_Operativos/Unidad 2",
+    "Emprendedores/Untitled.canvas",
+    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
     "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
-    "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
     "Sistemas_Operativos/Unidad 1/Presentacion.md",
     "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
     "Sistemas_Operativos/Unidad 1/Memoria.md",
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
-    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Sistemas_Operativos/Unidad 1/Unix.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
-    "Sistemas_Operativos/Apuntes.md",
-    "Pasted image 20240223105642.png",
-    "Pasted image 20240223105623.png",
-    "Pasted image 20240223105536.png",
     "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
     "Aprendizaje inteligente/Aprendizaje inteligente.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
     "Sistemas_Operativos/Unidad 1",
-    "Recording 20240222120622.webm",
     "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
-    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Etica/Distinción entre hombre y humano.md",
     "Emprendedores/segmento del mercado.md",
@@ -198,24 +211,14 @@
     "1708354075-YYTA.md",
     "1708318182-RVTY.md",
     "Emprendedores/Tarea 1.pdf",
-    "Etica/Juicios morales éticos....md",
-    "Etica/Qué más se puede decir de la ética y la moral.md",
-    "Etica/Ética y Genero.md",
-    "NVIM.md",
-    "Aprendizaje inteligente/Extra.md",
     "Red neuronal.png",
-    "2024-02-21.md",
     "Untitled 1.canvas",
     "1708354075-YYTA.md~",
     "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
-    "Teoria de la complejidad computacional",
-    "Etica",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
     "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
-    "Sistemas_Operativos/Componentes de unna pc.jpg",
-    "Sistemas_Operativos/Componenttes de una computtadora.png",
-    "Pasted image 20240130185203.png"
+    "Sistemas_Operativos/Componentes de unna pc.jpg"
   ]
 }

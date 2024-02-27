@@ -7,7 +7,7 @@
   ],
   "translucency": false,
   "nativeMenus": true,
-  "interfaceFontFamily": "Hack Nerd Font Mono",
-  "textFontFamily": "Hack Nerd Font",
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
   "theme": "system"
 }
