@@ -60,3 +60,14 @@ Hay cuatro eventos principales que provocan la creación de procesos
 - En UNIX podemos utilizar el programa para listar los procesos en ejecución
 - En Windows podemos usar el administrador de tareas
 - En UNIX solo hay una llamada del sistema para crear un proceso. *fork*. Esta llamada crea un clon del proceso que hizo la llamada, después de *fork* los dos procesos (padre e hijo) tienen la misma imagen de memoria, las mismas cadenas de entorno y los mismos archivos abiertos. Por lo general el proceso hijo se ejecuta después del *execveo*
+- Tanto UNIX como Windows una vez que se crea un proceso, el padre y el hijo tienen sus propios espacios de direcciones distintas. Si cualquiera de los procesos modifica una palabra en su espacio de direcciones esta modificación no es visible para el otro proceso. En UNIX el espacio de direcciones inicial del hijo es una copia del padre pero en definitiva hay dos espacio de direcciones distintos involucrados, no se comparte memoria en la que se puede escribir sin embargo es posible para un proceso recién creado compartir algunos de los recursos de su creador como los archivos abiertos
+- Tarde o temprano el nievo proceso terminara por log general debido a una de las siguientes condiciones
+	- Salida Normal (voluntario)
+	- Salida por error (voluntario)
+	- Error fatal (involuntaria)
+	- Eliminado por otro proceso (involuntaria)
+	El voluntario por ejemplo es cuando pongo un print que diga error 
+- La mayoría de los procesos terminan debido a que han concluido su trabajo
+- La segunda razón de terminación es que el proceso descubra un error
+- La tercera razón de terminación es un error fatal producido por el proceso a menudo debido a un error en el programa
+- La cuarta razón por la que un proceso podría terminar es que ejecute una llamada al sistema que indique el sistema operativo que elimine otros procesos
