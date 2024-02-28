@@ -65,4 +65,4 @@ end
 ```
 
 El resto es lo mismo. Como el lazo mas exterior se hace n-1 veces, si multiplicamos n-1 por O(n), obtenemos O(n 2 -n). Pero O(n 2 ) es una cota superior de O(n 2 -n), y por lo tanto el tiempo de ejecución de este algoritmo es $$O(n^2 ).$$
-
+  

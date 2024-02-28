@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+                "file": "Teoria de la complejidad computacional/Big O.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cc255f43be4cd60c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos/Unidad 2/FCFS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "163ff1ae81c64efd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagenes/Pasted image 20240227180942.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Pasted image 20240227180942.png",
+                "file": "Teoria de la complejidad computacional/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Pasted image 20240227180942.png",
+                "file": "Teoria de la complejidad computacional/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Pasted image 20240227180942.png"
+                "file": "Teoria de la complejidad computacional/Big O.md"
               }
             }
           },
@@ -179,16 +157,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c9e7db5845c3142",
+  "active": "b282de36e74096cc",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
+    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+    "Sistemas_Operativos/Unidad 2/FCFS.md",
+    "Imagenes/Pasted image 20240227180942.png",
     "Imagenes/Pasted image 20240226185744.png",
     "Imagenes/Pasted image 20240226122619.png",
     "Teoria de la complejidad computacional/Big O.md",
-    "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
-    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
-    "Imagenes/Pasted image 20240227180942.png",
-    "Sistemas_Operativos/Unidad 2/FCFS.md",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
     "Sistemas_Operativos/Apuntes.md",
