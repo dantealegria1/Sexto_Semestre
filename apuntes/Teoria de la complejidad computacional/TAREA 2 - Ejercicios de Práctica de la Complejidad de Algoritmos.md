@@ -85,7 +85,7 @@ for j = 2 to n:
 		i+i-1
 	xi+1+X
 ```
-La complejidad sera:
+La complejidad será:
 
 ```c++
 c=1; 
@@ -116,3 +116,8 @@ for (int i=0; i < N; i++)
 
 Entonces la complejidad será: $$O(n)*O(\log c)=O(n \log c)$$
 Por la misma razón que se divide c entre 2
+
+
+![[Pasted image 20240227180942.png]]
+
+ Este algoritmo lo que esta haciendo es ordenar de menor a mayor los números dentro de un vector. El numero de comparaciones depende del tamaño de ese vector

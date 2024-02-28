@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Big O.md",
+                "file": "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+                "file": "Sistemas_Operativos/Unidad 2/FCFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "163ff1ae81c64efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria de la complejidad computacional/Big O.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+                "file": "Teoria de la complejidad computacional/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+                "file": "Teoria de la complejidad computacional/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md"
+                "file": "Teoria de la complejidad computacional/Big O.md"
               }
             }
           },
@@ -170,13 +182,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cc255f43be4cd60c",
+  "active": "163ff1ae81c64efd",
   "lastOpenFiles": [
     "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
     "Teoria de la complejidad computacional/Big O.md",
     "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
-    "Pasted image 20240226185744.png",
+    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
+    "Pasted image 20240227180942.png",
+    "Sistemas_Operativos/Unidad 2/FCFS.md",
+    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Pasted image 20240226185744.png",
     "Sistemas_Operativos/Apuntes.md",
     "Etica/Ética Profesional.md",
     "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
@@ -189,7 +205,6 @@
     "Untitled.md",
     "Sistemas_Operativos/Unidad 2",
     "Emprendedores/Untitled.canvas",
-    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
     "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
     "Sistemas_Operativos/Unidad 1/Presentacion.md",
@@ -204,12 +219,10 @@
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
     "Sistemas_Operativos/Unidad 1",
     "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
-    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Etica/Distinción entre hombre y humano.md",
     "Emprendedores/segmento del mercado.md",
     "Direccion de la carpeta.md",
     "1708354075-YYTA.md",
-    "1708318182-RVTY.md",
     "Emprendedores/Tarea 1.pdf",
     "Red neuronal.png",
     "Untitled 1.canvas",
@@ -218,7 +231,6 @@
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
     "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
     "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
-    "Sistemas_Operativos/imagenes/Componentes de la computadora.png",
-    "Sistemas_Operativos/Componentes de unna pc.jpg"
+    "Sistemas_Operativos/imagenes/Componentes de la computadora.png"
   ]
 }

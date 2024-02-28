@@ -103,4 +103,3 @@ for i = 0 to lenght(A)
 ```
 Entonces la complejidad del algoritmo 
 $$O(n)*O(m)=O(n*m)$$ o en su defecto $$ O(n^2) $$
-

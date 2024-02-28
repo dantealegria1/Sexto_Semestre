@@ -1,0 +1,2 @@
+ El esquema mas simple de planificación es el primero llegado primero servido, este mecanismo cooperativo con la misma lógica posible cada proceso se ejecuta en el orden en el que fue llegando hasta que suelta el control, Es una cola FIFO
+ 

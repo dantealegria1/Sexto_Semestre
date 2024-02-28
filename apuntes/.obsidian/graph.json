@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -18,7 +18,7 @@
       "query": "path:\"Teoria de la complejidad computacional\"  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 4924125
       }
     },
     {
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 3.14342560553633,
+  "lineSizeMultiplier": 2.12181818181818,
   "collapse-forces": false,
-  "centerStrength": 0.448096885813149,
+  "centerStrength": 0.488534322820037,
   "repelStrength": 7.71626297577855,
   "linkStrength": 0.828719723183391,
   "linkDistance": 250,
-  "scale": 0.463024898675873,
-  "close": true
+  "scale": 0.3302642988087447,
+  "close": false
 }
