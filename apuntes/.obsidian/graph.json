@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -11,48 +11,48 @@
       "query": "path:Etica  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Teoria de la complejidad computacional\"  ",
+      "query": "path:\"Teoria de la complejidad computacional\" path:\"Investifacion de operaciones\" path:",
       "color": {
         "a": 1,
-        "rgb": 4924125
+        "rgb": 14069084
       }
     },
     {
       "query": "path:\"Aprendizaje inteligente\"  ",
       "color": {
         "a": 1,
-        "rgb": 2788038
-      }
-    },
-    {
-      "query": "path:\"Sistemas_Operativos/Unidad 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
+        "rgb": 11392604
       }
     },
     {
       "query": "path:\"Sistemas_Operativos/Unidad 1\"  ",
       "color": {
         "a": 1,
-        "rgb": 8859953
+        "rgb": 6080726
+      }
+    },
+    {
+      "query": "path:\"Sistemas_Operativos/Unidad 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.12181818181818,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.488534322820037,
-  "repelStrength": 7.71626297577855,
-  "linkStrength": 0.828719723183391,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3302642988087447,
-  "close": false
+  "scale": 0.46879122794104944,
+  "close": true
 }

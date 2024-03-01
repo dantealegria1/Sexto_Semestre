@@ -26,7 +26,7 @@ Las computadores de nuevo se hacen mas pequeñas
 
 Proteccion por hardware del contenido de cada particion de la memoria
  Aparicion de tecnicas de spooling
-    - **Simultaneous Peripheral Operation On line
+    - Simultaneous Peripheral Operation On line
     - Almacenamiento de trabahos de entrada y de salida en dispositivos transitorios rapidos (discos)
     para disminuir el impacto de los perifericos mas lentos
 

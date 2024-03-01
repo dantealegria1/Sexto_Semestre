@@ -4,7 +4,7 @@ _Holy C_, como su nombre sugiere, es un lenguaje de programación al estilo de _
 
 _HolyC_ **no** requiere una función `Main()`. Las expresiones fuera de las funciones se evalúan simplemente de arriba a abajo en el código fuente. Esto permite que el lenguaje actúe como un shell y, de hecho, **es** el shell de TempleOS. Las funciones que se llaman sin argumentos pueden acortarse sintácticamente escribiendo solo el nombre de la función seguido de un punto y coma.
 
-```
+```c
 // Las siguientes son equivalentes.
 
 x = Foo();  // C
@@ -14,7 +14,7 @@ y = Foo;    // HolyC
 
 Terry explicó en varias ocasiones cómo las declaraciones de _switch_ son las construcciones más potentes en _HolyC_. En este lenguaje, las declaraciones de _switch_ siempre utilizan tablas de saltos en ensamblador (y, por lo tanto, se menciona en la documentación que no se deben usar en casos con rangos de valores grandes o dispersos). Las de _HolyC_ ofrecen una amplia gama de mejoras de conveniencia en comparación con sus contrapartes en _C_.
 
-```
+```c
 I64 i;
 switch (i) {
     case: "zero\n"; break;         // Declaraciones de caso implícitas comienzan en 0
@@ -27,7 +27,7 @@ switch (i) {
 
 Las expresiones de los switch pueden estar anidadas en lo que se conocen como declaraciones "sub_switch" mediante las palabras clave `start` y `end`.
 
-```
+```c
 U0 SubSwitch ()
 {
     I64 i;
@@ -54,7 +54,7 @@ Que regresara Zero [One] Two [Three] Four [Five]
 
 Las constantes de tipo string se enviaran automaticamente a imprimir
 
-```
+```c
 U0 PrintMessage(char *first, char *last)
 {
     "Hello person!\n";

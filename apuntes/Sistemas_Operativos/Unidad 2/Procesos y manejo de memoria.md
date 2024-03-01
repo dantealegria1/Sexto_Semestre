@@ -56,6 +56,21 @@ Hay cuatro eventos principales que provocan la creación de procesos
 - Una petición de usuarios para crear un proceso
 - El inicio de un trabajo por lotes
 
+### Objetivos de la planificación
+
+- *Ser justos* debe tratarse igual a todos los procesos que tengan las mismas características
+- *Maximizar rendimiento* Dar servicio a la mayor parte de procesos por unidad de tiempo
+- *Ser predecible* Un mismo trabajo puede tomar aproximadamente la misma cantidad de tiempo independientemente de la carga del sistema
+- *Equilibrar el uso de recursos* Favorecer a los procesos que empleen recursos subutilizado y penalizar a los que peleen un recurso sobre utilizado
+- *Evitar la postergación indefinida* Aumenta la prioridad de los procesos mas viejos
+- *Favorecer el uso esperado del sistema* un sistema con usuarios interactivos, maximizar la prioridad de los procesos que sirvan a solicitudes inicializadas por este
+- *Dar preferencia a los procesos que podrían causar bloqueo* si un proceso de baja prioridad esta empleando algún recurso que otros procesos quieren favorecer que este termine mas rápido
+- *Favorecer los procesos con un comportamiento deseable* si un proceso causa muchas demoras se le puede penalizar
+- *Degradar suavemente* Si bien el uso del procesador al 100 es imposible. Un algoritmo puede buscar responder con la menor penalización a los procesos preexistentes
+- *Minimizar la sobrecarga* El tiempo que el algoritmo pierda en burocracia debe mantenerse al mínimo
+
+[[MANEJO DE PROCESOS]]
+
 ### Administración de Procesos en UNIX
 - En UNIX podemos utilizar el programa para listar los procesos en ejecución
 - En Windows podemos usar el administrador de tareas

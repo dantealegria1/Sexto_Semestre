@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "15ebf45450a7b184",
+        "id": "38596d30377276b6",
         "type": "tabs",
         "children": [
           {
-            "id": "b282de36e74096cc",
+            "id": "78b5bc022ebdbf4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Big O.md",
+                "file": "Sistemas_Operativos/Apuntes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47476a03577807d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos/Repaso Unidad 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "multics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/Big O.md",
+                "file": "Sistemas_Operativos/Repaso Unidad 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/Big O.md",
+                "file": "Sistemas_Operativos/Repaso Unidad 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria de la complejidad computacional/Big O.md"
+                "file": "Sistemas_Operativos/Repaso Unidad 1.md"
               }
             }
           },
@@ -157,19 +170,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b282de36e74096cc",
+  "active": "47476a03577807d0",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Apuntes.md",
+    "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
+    "Sistemas_Operativos/Repaso Unidad 1.md",
+    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
+    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
+    "Pasted image 20240229180640.png",
+    "Pasted image 20240229180342.png",
+    "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
+    "Highlights for Presentacion.md",
+    "Carry On! - Virna Sheard.md",
+    "Sistemas_Operativos/Unidad 1/Unix.md",
+    "Sistemas_Operativos/Unidad 1/Técnicas de comunicación de I,O.md",
+    "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
+    "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
+    "Imagenes/Pasted image 20240228122520.png",
+    "Sistemas_Operativos/Unidad 1/Interrupciones.md",
+    "Sistemas_Operativos/Unidad 1/Presentacion.md",
+    "Untitled.md",
+    "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
+    "Sistemas_Operativos/Unidad 1/Memoria.md",
+    "Sistemas_Operativos/Unidad 2/81B5D100",
+    "Sistemas_Operativos/Unidad 2/~$Copia de Algoritmos de planificación de procesos.xlsx",
+    "Sistemas_Operativos/Unidad 2/8F476000",
+    "Teoria de la complejidad computacional/Big O.md",
     "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
     "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
-    "Sistemas_Operativos/Unidad 2/FCFS.md",
     "Imagenes/Pasted image 20240227180942.png",
     "Imagenes/Pasted image 20240226185744.png",
     "Imagenes/Pasted image 20240226122619.png",
-    "Teoria de la complejidad computacional/Big O.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
-    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
-    "Sistemas_Operativos/Apuntes.md",
     "Etica/Ética Profesional.md",
     "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
     "Imagenes/Pasted image 20240223105623.png",
@@ -177,35 +211,14 @@
     "Imagenes/Pasted image 20240223105642.png",
     "Imagenes/Pasted image 20240223105536.png",
     "Imagenes/Recording 20240222120622.webm",
-    "Untitled.md",
     "Sistemas_Operativos/Unidad 2",
     "Emprendedores/Untitled.canvas",
-    "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
-    "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
-    "Sistemas_Operativos/Unidad 1/Presentacion.md",
-    "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
-    "Sistemas_Operativos/Unidad 1/Memoria.md",
-    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
-    "Sistemas_Operativos/Unidad 1/Unix.md",
-    "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
     "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
     "Aprendizaje inteligente/Aprendizaje inteligente.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
     "Sistemas_Operativos/Unidad 1",
-    "Aprendizaje inteligente/From Knowledge to knowledge representation.md",
-    "Etica/Distinción entre hombre y humano.md",
-    "Emprendedores/segmento del mercado.md",
-    "Direccion de la carpeta.md",
-    "1708354075-YYTA.md",
-    "Emprendedores/Tarea 1.pdf",
     "Red neuronal.png",
-    "Untitled 1.canvas",
-    "1708354075-YYTA.md~",
-    "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
-    "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg",
-    "Sistemas_Operativos/339f51fe4b45fca610c34ef3eff25a39.jpg.crdownload",
-    "Sistemas_Operativos/imagenes/Pasted image 20240131122947.png",
-    "Sistemas_Operativos/imagenes/Componentes de la computadora.png"
+    "Untitled 1.canvas"
   ]
 }

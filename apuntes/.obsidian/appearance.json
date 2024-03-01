@@ -1,7 +1,7 @@
 {
-  "accentColor": "#6db378",
-  "baseFontSize": 16,
-  "cssTheme": "Material Gruvbox",
+  "accentColor": "#b36b7d",
+  "baseFontSize": 14,
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "graph-view"
   ],
@@ -9,5 +9,6 @@
   "nativeMenus": true,
   "interfaceFontFamily": "Fira Code",
   "textFontFamily": "Fira Code",
-  "theme": "system"
+  "theme": "system",
+  "baseFontSizeAction": true
 }
