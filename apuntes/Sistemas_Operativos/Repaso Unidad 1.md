@@ -178,7 +178,12 @@ Un sistema operativo es un conjunto de programas que se integran con el hardware
 [[Introduccion a los sistemas operativos]]
 ## Evolución de los sistemas operativos
 
-El primer sistema operativo fue creado en 1965 para la IBM 704 lo único que hacia era comenzar la ejecución de un programa cuando el anterior terminaba
+El primer sistema operativo fue creado en 1956 para la IBM 704 lo único que hacia era comenzar la ejecución de un programa cuando el anterior terminaba
+
+**Generacion cero 1940's
+
+- Carencia total de S.O
+- Completo acceso a lenguaje maquina
 
 **Primera generación 1945-1955
 
@@ -187,8 +192,12 @@ El primer sistema operativo fue creado en 1965 para la IBM 704 lo único que hac
 
 **Segunda Generación 1955-1965
 
+Transistores y sistemas de procesamiento por lotes 
+
+En los anos sesenta aparecen los S.O con:
 - *Multiprogramación* varios programas de usuarios se encuentran en el almacenamiento al mismo tiempo
 - *Multiprocesamiento* varios procesadores se usan en el mismo sistema para aumentar el poder de procesamiento
+
 Aparece la independencia de dispositivo
 - El usuario especifica las características que requiere los dispositivos
 - El sistema operativo asigna los dispositivos según los requerimientos
@@ -199,7 +208,7 @@ En 1963 un equipo del MIT desarrollo el CTSS que fue el primer sistema operativo
 
 *Circuitos integrados y multiprogramación* 
 
-Difusión de la multiperforación
+Difusión de la multiprogramación
 - Partición de la memoria en porciones con trabajos distintos
 - Aprovechamiento del tiempo de espera para utilizar la CPU para otros procesos
 - Emergieron con el desarrollo de los circuitos integrados
@@ -210,7 +219,6 @@ Protección por hardware, del contenido de cada partición de memoria
 Aparece el *spooling
 - Simultaneous Peripheral Operation On line
 - Almacenamiento de trabajos de entrada y salida en dispositivos transitorios rápidos (discos) para disminuir el impacto de los periféricos mas lentos
-
 - Sistemas operativos grandes y complejos pero que tienen propósitos generales (modos múltiples)
 - Interponen una capa de software entre el usuario y el hardware
 - Aparecen los lenguajes de control que sirven para especificar trabajos y recursos requeridos
@@ -234,7 +242,6 @@ Sistemas operativos distribuidas
 - Aparece como un S.O de un solo procesador
 - Los usuarios no están consientes en donde se ejecuta sus programas ya que el S.O administra automáticamente
 - Debe permitir que un programa se ejecute mediante varios procesadores a la vez
-
 - Aparecen los emuladores de terminal para el acceso a equipos remotos
 - Énfasis en la seguridad
 - El S.O crea un ambiente de trabajo según el concepto de maquina virtual

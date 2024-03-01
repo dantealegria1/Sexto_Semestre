@@ -141,6 +141,7 @@ Partici
 Proliferaci
 Poetry
 Press
+Programa
 obj
 oh
 oC
@@ -373,6 +374,7 @@ Tiene
 Twk
 Transferencia
 Trabajar
+Transistores
 Catalog
 Count
 Contents
@@ -536,6 +538,7 @@ Comunicaci
 Cargan
 Carry
 Creada
+Completo
 Lang
 Length
 LcL
@@ -910,6 +913,9 @@ estandar
 empleen
 esperado
 empleando
+enviadas
+especifico
+escritos
 StructTreeRoot
 StructParents
 SEPAZS
@@ -1182,6 +1188,7 @@ Multiacceso
 Multiprogramaci
 MIT
 Maneje
+Mantener
 true
 ta
 tr
@@ -2731,6 +2738,8 @@ subutilizado
 sirvan
 solicitudes
 suavemente
+sesenta
+solucionar
 Ap
 Ax
 Am
@@ -3758,6 +3767,7 @@ BKY
 Bgo
 Bell
 Beckley
+Buses
 yJ
 yg
 yu
@@ -4064,6 +4074,7 @@ delightful
 deseable
 demoras
 diagnostico
+dispone
 jM
 je
 js
@@ -4588,6 +4599,8 @@ life
 link
 laboratoristas
 ltoes
+llamadas
+locales
 bv
 bE
 bRic
@@ -4969,6 +4982,10 @@ aumentar
 author
 authors
 aproximadamente
+anos
+aparecen
+acache
+algunas
 iK
 iS
 iW
@@ -5161,6 +5178,8 @@ independientemente
 indefinida
 inicializadas
 imposible
+independiente
+intercepta
 ZD
 ZZ
 ZE
@@ -5509,6 +5528,7 @@ nfasis
 nature
 necesario
 nimo
+necesidad
 gEQ
 gw
 gclv
@@ -5950,6 +5970,9 @@ cantidad
 causar
 comportamiento
 causa
+cero
+controlador
+comprenda
 JyVD
 Jx
 Jn

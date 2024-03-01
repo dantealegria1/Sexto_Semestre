@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Apuntes.md",
+                "file": "Sistemas_Operativos/Unidad 1/Memoria cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b2f09807f68236b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarjetas de estudio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Repaso Unidad 1.md",
+                "file": "Tarjetas de estudio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Repaso Unidad 1.md",
+                "file": "Tarjetas de estudio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Repaso Unidad 1.md"
+                "file": "Tarjetas de estudio.md"
               }
             }
           },
@@ -170,12 +181,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "47476a03577807d0",
+  "active": "6b2f09807f68236b",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Repaso Unidad 1.md",
+    "Tarjetas de estudio.md",
+    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "Sistemas_Operativos/Apuntes.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
-    "Sistemas_Operativos/Repaso Unidad 1.md",
-    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
     "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
     "Pasted image 20240229180640.png",
