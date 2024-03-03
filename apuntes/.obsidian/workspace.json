@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78b5bc022ebdbf4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos/Unidad 1/Memoria cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47476a03577807d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Repaso Unidad 1.md",
+                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarjetas de estudio.md",
+                "file": "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarjetas de estudio.md",
+                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarjetas de estudio.md",
+                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarjetas de estudio.md"
+                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md"
               }
             }
           },
@@ -181,17 +169,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6b2f09807f68236b",
+  "active": "47476a03577807d0",
   "lastOpenFiles": [
+    "Pasted image 20240302224812.png",
     "Sistemas_Operativos/Repaso Unidad 1.md",
-    "Tarjetas de estudio.md",
+    "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
+    "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
+    "Imagenes/Pasted image 20240229180640.png",
+    "Untitled.md",
     "Sistemas_Operativos/Apuntes.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
     "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
     "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
-    "Pasted image 20240229180640.png",
-    "Pasted image 20240229180342.png",
+    "Imagenes/Pasted image 20240229180342.png",
     "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
     "Highlights for Presentacion.md",
     "Carry On! - Virna Sheard.md",
@@ -200,9 +191,7 @@
     "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
     "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
     "Imagenes/Pasted image 20240228122520.png",
-    "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Sistemas_Operativos/Unidad 1/Presentacion.md",
-    "Untitled.md",
     "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
     "Sistemas_Operativos/Unidad 1/Memoria.md",
     "Sistemas_Operativos/Unidad 2/81B5D100",
@@ -227,7 +216,6 @@
     "Emprendedores/Untitled.canvas",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
     "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-    "Aprendizaje inteligente/Aprendizaje inteligente.md",
     "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
     "Sistemas_Operativos/Unidad 1",
     "Red neuronal.png",

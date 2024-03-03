@@ -3,9 +3,10 @@
   "baseFontSize": 14,
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "graph-view"
+    "graph-view",
+    "obsidian"
   ],
-  "translucency": false,
+  "translucency": true,
   "nativeMenus": true,
   "interfaceFontFamily": "Fira Code",
   "textFontFamily": "Fira Code",

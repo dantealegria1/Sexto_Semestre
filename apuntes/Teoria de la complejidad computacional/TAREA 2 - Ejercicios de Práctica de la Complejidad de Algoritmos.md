@@ -121,3 +121,5 @@ Por la misma razón que se divide c entre 2
 ![[Pasted image 20240227180942.png]]
 
  Este algoritmo lo que esta haciendo es ordenar de menor a mayor los números dentro de un vector. El numero de comparaciones depende del tamaño de ese vector
+
+![[Pasted image 20240302224812.png]]

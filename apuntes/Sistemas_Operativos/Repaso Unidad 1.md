@@ -11,7 +11,7 @@ Tiene 3 componentes principales
 - **Núcleo del sistema operativo** que es como se mueven los datos del sistema
 - **Editores compiladores** que es el que convierte el lenguaje de programación a uno por la maquina y permite editar código
 
-Los programas de aplicación son los que hace una actividad especifica (aplicaciones)
+Los programas de aplicación son los que hace una actividad especifica 
 
 El sistema operativo es el que controla todos los dispositivos del PC
 
@@ -41,7 +41,7 @@ Cuando se crea un proceso se debe asignar un nombre, insertarse en la lista de l
 
 ## kernel
 
-La parte mas importante ya que tiene el control de la maquina es un intermediario entre el hardware y el software
+La parte *mas importante* ya que tiene el control de la maquina es un intermediario entre el hardware y el software
 
 **Sus funciones son:
 - Comunicación entre programas
@@ -74,7 +74,7 @@ Entre mas arriba
 
 [[Registros de procesos]]
 
-## Memoria Cache
+ ## Memoria Cache
 
 Es mas rápida y costosa que las demás. Antes de que los programas sean ejecutados pasan por la memoria cache y luego a la principal
 
@@ -100,6 +100,7 @@ Espera reducir el ancho de banda entre la memoria principal y el procesador. Red
 - *De entrada o salida* que es cuando los drivers o controladores nos indican que una tarea se finalizo, algo fue conectado o marca un error
 - *Por fallo de HW* que son causados por el mal funcionaiento del equipo como cortes de energia o asi
 
+[[Interrupciones]]
 ## PSW
 
 Tiene tres tipos
@@ -330,7 +331,9 @@ Se usa mucho para la nube, 1/3 de las maquinas virtuales se basan en Linux
 Los dispositivos móviles están basado en el kernel de Linux 
 
 
+## Procesos y manejo de memoria
 
+[[Procesos y manejo de memoria]]
 
 
  
