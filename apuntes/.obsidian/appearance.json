@@ -1,9 +1,8 @@
 {
   "accentColor": "#b36b7d",
-  "baseFontSize": 14,
-  "cssTheme": "Things",
+  "baseFontSize": 15,
+  "cssTheme": "Material Gruvbox",
   "enabledCssSnippets": [
-    "graph-view",
     "obsidian"
   ],
   "translucency": true,

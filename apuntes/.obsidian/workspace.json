@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2f09807f68236b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
+                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
+                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
+                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md"
+                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md"
               }
             }
           },
@@ -171,9 +159,15 @@
   },
   "active": "47476a03577807d0",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
+    "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
+    "NVIM.md",
+    "Teoria de la complejidad computacional/Unidad 2",
+    "Teoria de la complejidad computacional/Unidad 1",
+    "Teoria de la complejidad computacional/Unidad 1/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
+    "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
     "Pasted image 20240302224812.png",
     "Sistemas_Operativos/Repaso Unidad 1.md",
-    "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
     "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "Imagenes/Pasted image 20240229180640.png",
@@ -197,16 +191,14 @@
     "Sistemas_Operativos/Unidad 2/81B5D100",
     "Sistemas_Operativos/Unidad 2/~$Copia de Algoritmos de planificación de procesos.xlsx",
     "Sistemas_Operativos/Unidad 2/8F476000",
-    "Teoria de la complejidad computacional/Big O.md",
-    "Teoria de la complejidad computacional/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
-    "Teoria de la complejidad computacional/Análisis practico del tiempo de ejecución de algoritmos.md",
+    "Teoria de la complejidad computacional/Unidad 1/Big O.md",
+    "Teoria de la complejidad computacional/Unidad 1/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Imagenes/Pasted image 20240227180942.png",
     "Imagenes/Pasted image 20240226185744.png",
     "Imagenes/Pasted image 20240226122619.png",
-    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
+    "Teoria de la complejidad computacional/Unidad 1/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Etica/Ética Profesional.md",
-    "Sistemas_Operativos/Unidad 1/Sistemas Operativos.md",
     "Imagenes/Pasted image 20240223105623.png",
     "Imagenes",
     "Imagenes/Pasted image 20240223105642.png",
@@ -215,10 +207,6 @@
     "Sistemas_Operativos/Unidad 2",
     "Emprendedores/Untitled.canvas",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
-    "Aprendizaje inteligente/Neurona de McCulloch Pitts.md",
-    "Teoria de la complejidad computacional/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..pdf",
-    "Sistemas_Operativos/Unidad 1",
-    "Red neuronal.png",
     "Untitled 1.canvas"
   ]
 }

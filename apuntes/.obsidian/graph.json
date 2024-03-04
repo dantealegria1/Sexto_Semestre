@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:\"Teoria de la complejidad computacional\" path:\"Investifacion de operaciones\" path:",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
       "query": "path:\"Aprendizaje inteligente\"  ",
       "color": {
         "a": 1,
@@ -41,6 +34,20 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "path:\"Teoria de la complejidad computacional/Unidad 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13267434
+      }
+    },
+    {
+      "query": "path:\"Teoria de la complejidad computacional/Unidad 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8526473
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.34894632465514347,
-  "close": true
+  "scale": 0.34500250041201197,
+  "close": false
 }

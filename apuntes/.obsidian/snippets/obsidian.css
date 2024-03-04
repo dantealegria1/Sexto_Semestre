@@ -1,78 +1,25 @@
 /* Ajustar la opacidad del fondo de la zona de notas */
 
-
 body {
-    /*--background-primary: #1c2121!important;*/
+    --background-primary: #1c2121 !important;
     --titlebar-background: transparent !important;
     --titlebar-background-focused: var(--titlebar-background);
-    --text-normal: #f0ead6 !Important;
-    --workspace-background-translucent: rgba(var(--monobody {
-    --background-primary: #1c2121!important;
-    --titlebar-background: transparent !important;
-    --titlebar-background-focused: var(--titlebar-background);
-    --text-normal: #f1f1f1 !Important;
-    --workspace-background-translucent: rgba(var(--mono-rgb-0), 0.31);
+    --mono-rgb-0: 0, 0, 0; /* Ajusta estos valores según tus necesidades */
+    --workspace-background-translucent: rgba(var(--mono-rgb-0), 0.0);
+    --text-normal: #f1f1f1 !important;
 }
 
 .workspace-tab-header.is-active {
-    color: #fff !Important;
+    color: #fff !important;
 }
-c
 
 .workspace-leaf,
-.worksSpace-tab-header-container {
-    background: transparent;
-}
-
+.workspace-tab-header-container,
 .workspace-split.mod-root,
 .workspace-split.mod-root .view-content,
-.workspace-split.mod-root .view-header {
-    background: transparent;
-}
-c
-.view-header-title-container:not(.mod-at-end):after {
-    background: transparent;
-}
-
-.custom-frames-frame {
-    background: transparent !important;
-}
-
+.workspace-split.mod-root .view-header,
+.view-header-title-container:not(.mod-at-end):after,
+.custom-frames-frame,
 .is-focused .workspace-leaf.mod-active .view-header {
-    background: transparent;
-}0), 0.31);
-}
-
-.workspace-tab-header.is-active {
-    color: #fff !Important;
-}
-/*
-Para cambiar el fondo
-.horizontal-main-container { /* below is the background image. Change it to whatever you want */
-    /*
-    background: url(https://i.pinimg.com/originals/2b/6c/2a/2b6c2af0b759e1277d29b1be0807c4e3.jpg);
-    background-size: cover;
-}
-*/
-.workspace-leaf,
-.workspace-tab-header-container {
-    background: transparent;
-}
-
-.workspace-split.mod-root,
-.workspace-split.mod-root .view-content,
-.workspace-split.mod-root .view-header {
-    background: transparent;
-}
-
-.view-header-title-container:not(.mod-at-end):after {
-    background: transparent;
-}
-
-.custom-frames-frame {
     background: transparent !important;
-}
-
-.is-focused .workspace-leaf.mod-active .view-header {
-    background: transparent;
 }
