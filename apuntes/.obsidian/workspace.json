@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38596d30377276b6",
+        "id": "ba0844c0cdf744b5",
         "type": "tabs",
         "children": [
           {
-            "id": "47476a03577807d0",
+            "id": "43a0707690b85864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
+                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
+                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
+                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md"
+                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md"
               }
             }
           },
@@ -157,8 +157,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "47476a03577807d0",
+  "active": "43a0707690b85864",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
+    "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+    "Sistemas_Operativos/Unidad 2/4F59F400",
+    "Sistemas_Operativos/Unidad 2/tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
+    "Sistemas_Operativos/Unidad 2/E3E6D400",
+    "Sistemas_Operativos/Unidad 2/~$tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
+    "Sistemas_Operativos/Unidad 2/3386D400",
+    "Sistemas_Operativos/Unidad 2/38B6C400",
+    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Investifacion de operaciones/Pasos para Hacer los ejercicios.md",
+    "Sistemas_Operativos/Apuntes.md",
+    "Pasted image 20240304122121.png",
     "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
     "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
     "NVIM.md",
@@ -171,11 +183,7 @@
     "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "Imagenes/Pasted image 20240229180640.png",
-    "Untitled.md",
-    "Sistemas_Operativos/Apuntes.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
-    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
-    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
     "Imagenes/Pasted image 20240229180342.png",
     "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
     "Highlights for Presentacion.md",
@@ -189,8 +197,6 @@
     "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
     "Sistemas_Operativos/Unidad 1/Memoria.md",
     "Sistemas_Operativos/Unidad 2/81B5D100",
-    "Sistemas_Operativos/Unidad 2/~$Copia de Algoritmos de planificación de procesos.xlsx",
-    "Sistemas_Operativos/Unidad 2/8F476000",
     "Teoria de la complejidad computacional/Unidad 1/Big O.md",
     "Teoria de la complejidad computacional/Unidad 1/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Imagenes/Pasted image 20240227180942.png",
@@ -198,15 +204,9 @@
     "Imagenes/Pasted image 20240226122619.png",
     "Teoria de la complejidad computacional/Unidad 1/TAREA 1.- Buscando conceptos fundamentales, biografías de investigadores y empresarios, y anécdotas..md",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
-    "Etica/Ética Profesional.md",
     "Imagenes/Pasted image 20240223105623.png",
-    "Imagenes",
     "Imagenes/Pasted image 20240223105642.png",
-    "Imagenes/Pasted image 20240223105536.png",
-    "Imagenes/Recording 20240222120622.webm",
-    "Sistemas_Operativos/Unidad 2",
     "Emprendedores/Untitled.canvas",
-    "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
     "Untitled 1.canvas"
   ]
 }
