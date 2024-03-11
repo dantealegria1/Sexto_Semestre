@@ -43,3 +43,22 @@ Existen los hilos a nivel de usuario y a nivel de kernel
 
 **Muchos a muchos**
 - Se multiplexan muchos hilos de usuarios a igual o menor numero de hilos del kernel
+
+### Micro-Kernel
+
+- Plug-in la cual permite crear aplicaciones extensibles, lo cual permite agregar nuevas funcionalidades mediante la adición de pequeños plug-in que extienden la funcionalidad inicial del sistema 
+
+**Definición:** Es un núcleo del sistema operativo que provee un conjunto de instrucciones o llamadas mínimas al sistema la cual permite la implementación de servicios básicos como espacios de direcciones, comunicación entre procesos y planificación básica
+
+En las arquitecturas de micro-Kernel las aplicaciones se dividen en dos tipos de componentes
+
+![[Pasted image 20240307122627.png]]
+
+Un sistema con la arquitectura de micro-Kernel no es fácil de desarrollar ya que es necesario crear aplicaciones capaces de adaptar dinámicamente la funcionalidad a medida de que se van instalando nuevos plug-in y al mismo tiempo se debe de tener mucho cuidado en que esos plug in no modifiquen o alteren la escancia de la aplicación.
+
+**Ventajas**
+- Testabilidad 
+- Despliegue (no necesito recargar para instalar otro)
+- Dinamismo (se pueden activar y desactivar)
+- Construcción modular (se construyen separadas pueden trabajar en paralelo)
+- Reutilización 
