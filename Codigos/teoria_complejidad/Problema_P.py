@@ -30,6 +30,7 @@ def Suma_Arreglo_B(Arreglo_Ordenado):
 
 def Valor_Maximo(Arreglo_Ordenado):
     valor_maximo = Suma_Arreglo_A(Arreglo_Ordenado) - Suma_Arreglo_B(Arreglo_Ordenado)
+    valor_maximo = abs(valor_maximo)
     print("El valor maximo es: ", valor_maximo)
 
 def main():

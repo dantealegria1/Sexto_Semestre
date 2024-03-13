@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0844c0cdf744b5",
+        "id": "92cbfa2603e4b913",
         "type": "tabs",
         "children": [
           {
-            "id": "43a0707690b85864",
+            "id": "878a6c59daa2a6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,11 +157,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "43a0707690b85864",
+  "active": "878a6c59daa2a6f4",
   "lastOpenFiles": [
-    "Pasted image 20240307122627.png",
-    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
+    "Sistemas_Operativos/Apuntes.md",
     "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+    "Imagenes/Pasted image 20240307122627.png",
+    "Imagenes/Pasted image 20240304122121.png",
+    "Imagenes/Pasted image 20240302224812.png",
+    "Etica/Infografia.md",
+    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
     "Sistemas_Operativos/Unidad 2/4F59F400",
     "Sistemas_Operativos/Unidad 2/tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
     "Sistemas_Operativos/Unidad 2/E3E6D400",
@@ -170,8 +174,6 @@
     "Sistemas_Operativos/Unidad 2/38B6C400",
     "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
     "Investifacion de operaciones/Pasos para Hacer los ejercicios.md",
-    "Sistemas_Operativos/Apuntes.md",
-    "Pasted image 20240304122121.png",
     "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
     "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
     "NVIM.md",
@@ -179,7 +181,6 @@
     "Teoria de la complejidad computacional/Unidad 1",
     "Teoria de la complejidad computacional/Unidad 1/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
     "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
-    "Pasted image 20240302224812.png",
     "Sistemas_Operativos/Repaso Unidad 1.md",
     "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
@@ -199,13 +200,11 @@
     "Sistemas_Operativos/Unidad 1/Memoria.md",
     "Sistemas_Operativos/Unidad 2/81B5D100",
     "Teoria de la complejidad computacional/Unidad 1/Big O.md",
-    "Teoria de la complejidad computacional/Unidad 1/Análisis practico del tiempo de ejecución de algoritmos.md",
     "Imagenes/Pasted image 20240227180942.png",
     "Imagenes/Pasted image 20240226185744.png",
     "Imagenes/Pasted image 20240226122619.png",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Imagenes/Pasted image 20240223105623.png",
-    "Imagenes/Pasted image 20240223105642.png",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"
   ]
