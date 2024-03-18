@@ -377,6 +377,7 @@ oyo
 ocurren
 ocurrir
 obligar
+obliga
 Type
 Transparency
 Tabs
@@ -789,6 +790,7 @@ Concurrencia
 Conceptos
 Condici
 Categor
+COMPLETAR
 Lang
 Length
 LcL
@@ -960,6 +962,7 @@ LTW
 LnD
 Lcx
 LOS
+Leer
 es
 endobj
 eQ
@@ -1312,6 +1315,8 @@ escenarios
 evitar
 emplear
 espere
+exclusi
+ejecutada
 StructTreeRoot
 StructParents
 SEPAZS
@@ -1711,6 +1716,8 @@ MFNM
 McyU
 Mhl
 Manipulaci
+Mutex
+Menor
 true
 ta
 tr
@@ -2669,6 +2676,7 @@ FSF
 FEI
 Fix
 Fxa
+Funci
 ExtGState
 Ef
 Encoding
@@ -3409,6 +3417,7 @@ IWa
 IkXm
 IHg
 IpP
+Imprimo
 DeviceRGB
 Descent
 Dx
@@ -3907,6 +3916,8 @@ seccion
 solucion
 sencilla
 soluciona
+secci
+sincronacion
 Ap
 Ax
 Am
@@ -4289,6 +4300,7 @@ haT
 hmg
 hAO
 hYY
+habla
 pR
 pZ
 pd
@@ -4896,6 +4908,7 @@ rQY
 relativo
 resultados
 region
+regiones
 xs
 xp
 xQ
@@ -7118,6 +7131,9 @@ atomicidad
 actualizacion
 adicional
 avanzar
+alternativas
+activa
+asegura
 iK
 iS
 iW
@@ -7387,6 +7403,7 @@ iRi
 involucra
 inconsistentes
 implican
+infinito
 ZD
 ZZ
 ZE
@@ -7898,6 +7915,8 @@ nKG
 nxl
 nFD
 nAn
+nace
+negada
 gEQ
 gw
 gclv
@@ -8485,6 +8504,8 @@ compartidos
 considerar
 concurrente
 corresponde
+candado
+cierta
 JyVD
 Jx
 Jn
@@ -9213,6 +9234,9 @@ mJF
 mutuo
 mecanismos
 multiple
+mutex
+mutez
+mutua
 wa
 wx
 wv

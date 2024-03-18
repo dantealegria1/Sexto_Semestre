@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+                "file": "Teoria de la complejidad computacional/Unidad 2/Problema NP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94a1d294069baf95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tarea Problemas NP y P.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+                "file": "tarea Problemas NP y P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+                "file": "tarea Problemas NP y P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md"
+                "file": "tarea Problemas NP y P.md"
               }
             }
           },
@@ -157,22 +169,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "878a6c59daa2a6f4",
+  "active": "94a1d294069baf95",
   "lastOpenFiles": [
-    "Sistemas_Operativos/Apuntes.md",
+    "Pasted image 20240317205636.png",
+    "Pasted image 20240317202033.png",
+    "Pasted image 20240317194950.png",
+    "Teoria de la complejidad computacional/Unidad 2/Problema NP.md",
+    "tarea Problemas NP y P.md",
+    "Pasted image 20240317165319.png",
     "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
+    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Sistemas_Operativos/Apuntes.md",
     "Imagenes/Pasted image 20240307122627.png",
     "Imagenes/Pasted image 20240304122121.png",
     "Imagenes/Pasted image 20240302224812.png",
     "Etica/Infografia.md",
-    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
     "Sistemas_Operativos/Unidad 2/4F59F400",
     "Sistemas_Operativos/Unidad 2/tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
     "Sistemas_Operativos/Unidad 2/E3E6D400",
     "Sistemas_Operativos/Unidad 2/~$tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
     "Sistemas_Operativos/Unidad 2/3386D400",
     "Sistemas_Operativos/Unidad 2/38B6C400",
-    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
     "Investifacion de operaciones/Pasos para Hacer los ejercicios.md",
     "Teoria de la complejidad computacional/Unidad 2/Ejemplos de Problemas P y NP.md",
     "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
@@ -197,14 +215,9 @@
     "Imagenes/Pasted image 20240228122520.png",
     "Sistemas_Operativos/Unidad 1/Presentacion.md",
     "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
-    "Sistemas_Operativos/Unidad 1/Memoria.md",
     "Sistemas_Operativos/Unidad 2/81B5D100",
-    "Teoria de la complejidad computacional/Unidad 1/Big O.md",
     "Imagenes/Pasted image 20240227180942.png",
-    "Imagenes/Pasted image 20240226185744.png",
-    "Imagenes/Pasted image 20240226122619.png",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
-    "Imagenes/Pasted image 20240223105623.png",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"
   ]
