@@ -4,7 +4,7 @@
 **Región Factible
 
 3. Dibujamos las rectas de las restricciones para eso:
-	- Por ejemplo si tenemos $6x+7y\le 84$ lo que tenemos que hacer es por ejemplo si queremos despejar x igualamos a 0 y y despejamos y quedaría así: $(14,0)$ y luego igualamos x a 0 y despejamos y entonces: $(0,12)$ y dibujamos esa recta 
+	- Por ejemplo si tene=mos $6x+7y\le 84$ lo que tenemos que hacer es por ejemplo si queremos despejar x igualamos a 0 y y despejamos y quedaría así: $(14,0)$ y luego igualamos x a 0 y despejamos y entonces: $(0,12)$ y dibujamos esa recta 
 4. Sacar el punto de intersección entre 2 restricciones esto lo hacemos sacando los determinantes de $\Delta,\Delta x,\Delta y$ después para sacar x es $\frac{\Delta x}{\Delta}$ igual para y
 
 **Curvas de nivel
