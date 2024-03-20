@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92cbfa2603e4b913",
+        "id": "083888c8300ffd06",
         "type": "tabs",
         "children": [
           {
-            "id": "878a6c59daa2a6f4",
+            "id": "a433b1e429b1b771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Problema NP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94a1d294069baf95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tarea Problemas NP y P.md",
+                "file": "Sistemas_Operativos/Apuntes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tarea Problemas NP y P.md",
+                "file": "Sistemas_Operativos/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tarea Problemas NP y P.md",
+                "file": "Sistemas_Operativos/Apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tarea Problemas NP y P.md"
+                "file": "Sistemas_Operativos/Apuntes.md"
               }
             }
           },
@@ -169,12 +156,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "94a1d294069baf95",
+  "active": "a433b1e429b1b771",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/Unidad 2/Problemas No polinomiales.md",
+    "Teoria de la complejidad computacional/Unidad 2/Problema NP.md",
     "Pasted image 20240317205636.png",
     "Pasted image 20240317202033.png",
     "Pasted image 20240317194950.png",
-    "Teoria de la complejidad computacional/Unidad 2/Problema NP.md",
     "tarea Problemas NP y P.md",
     "Pasted image 20240317165319.png",
     "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
@@ -216,7 +204,6 @@
     "Sistemas_Operativos/Unidad 1/Presentacion.md",
     "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
     "Sistemas_Operativos/Unidad 2/81B5D100",
-    "Imagenes/Pasted image 20240227180942.png",
     "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"

@@ -1,9 +1,9 @@
 {
   "accentColor": "#b36b7d",
-  "baseFontSize": 11,
+  "baseFontSize": 13,
   "cssTheme": "Material Gruvbox",
   "enabledCssSnippets": [],
-  "translucency": true,
+  "translucency": false,
   "nativeMenus": true,
   "interfaceFontFamily": "Fira Code",
   "textFontFamily": "Fira Code",
