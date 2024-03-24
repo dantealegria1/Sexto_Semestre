@@ -4,8 +4,8 @@ from nltk.corpus import stopwords
 import pandas as pd
 
 # Si lo corres por primera vez descomenta las siguientes líneas
-# nltk.download('punkt')
-# nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('stopwords')
 
 global PROHIBIDAS
 PROHIBIDAS = ["br","movie"]
