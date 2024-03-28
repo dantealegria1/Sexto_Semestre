@@ -99,13 +99,13 @@ Una bandera parece ser una solucion muy sencilla mediante una variable de bander
 
 **Utilizar turnos
 
-Una alternativa para evitar problemas de la actualizacion multiple una bandera es emplear una variable adicional que indique que proceso corresponde avanzar en todo momento, esto es utilizar turnos. Asi que bien esto soluciona el problema de la actualizacion multiple. 
+Una alternativa para evitar problemas de la actualización múltiple una bandera es emplear una variable adicional que indique que proceso corresponde avanzar en todo momento, esto es utilizar turnos. Así que bien esto soluciona el problema de la actualización múltiple. 
 
 Un proceso que no esta en la sección puede obligar a que otro proceso espere mucho tiempo para ingresar a la sección critica
 
 ### El algoritmo de Peterson
 
-**COMPLETAR
+![[Pasted image 20240325124434.png]]
 
 ### Mecanismos de sincronacion
 
@@ -113,4 +113,55 @@ Un proceso que no esta en la sección puede obligar a que otro proceso espere mu
 
 Una de las alternativas para evitar la espera activa a lo que obliga el algoritmo de Peterson se llama mutex o candado
 
-La palabra mutez nace de la frecuencia con la que se habla de las regiones de exclusión mutua. Es un mecanismo que asegura que cierta región del código será ejecutada como si fuera atómica
+La palabra mutex nace de la frecuencia con la que se habla de las regiones de exclusión mutua. Es un mecanismo que asegura que cierta región del código será ejecutada como si fuera atómica
+
+Mutex no implica que el código no se va a interrumpir dentro de la región
+
+Es un mecanismo de prevención que mantiene en espera cualquier hilo o proceso que quiera entrar a la sección critica protegida hasta que el proceso que esta adentro salga
+
+Sino hay nadie adentro si podrán ingresar
+
+Un área de exclusión mutua debe:
+
+- Ser mínima: Tan corta como puedas 
+- Ser completa: Se debe analizar bien cual área proteger y no arriesgarse a proteger menos
+
+**Semáforos**
+
+En 1968 se propusieron los semáforos
+
+*Inicializar*
+Se puede inicializar el semáforo a cualquier valor entero, pero después de esto su valor no puede ya ser leído, es una estructura abstracta y su valor es tomado como opaco o invisible al programador
+
+*Decrementar*
+Cuando un hilo decrementa el semáforo, si el valor es negativo el hilo se bloquea y no puede continuar hasta que otro hilo incrementé el semáforo. También se le llama wait, down o acquire
+
+*Incrementar*
+Cuando un hilo incrementa el semáforo, si hay hilos esperando uno de ellos es desperado. También se le llma signal, up, relase, post o V
+
+
+**Bloqueo mutuo e inanición**
+
+*Bloqueo mutuo*
+
+Cuando hay concurrencia hay que asegurarnos aparte de que sea atómico:
+
+*Bloqueo mutuo*: Cuando dos o mas procesos poseen determinados recursos y ambos quedan detenidos, esperando a que el otro acabe. El sistema puede seguir pero ningún proceso puede avanzar
+
+*Inanición*: Cuando un proceso no puede avanzar dado que necesita recursos asignados a otros procesos
+
+
+## Ver procesos en UNIX
+
+- **PS:** Muestra todos los procesos
+
+	- Si deseas ver los procesos en Linux en una vista jerárquica, utiliza el comando ps-axjf. 
+	- • ps -u [nombre de usuario]: lista todos los procesos en ejecución de un determinado usuario.
+	- • ps -e o ps-A: muestra los procesos Linux activos en el formato genérico UNIX. • ps -T: imprime los procesos activos que se ejecutan desde el terminal. 
+	- • Ps -C nombre proceso: filtra la lista por el nombre del proceso. Además, este comando también muestra todos los procesos hijos del proceso especificado.
+
+- El comando **top** se utiliza para descubrir procesos que consumen muchos recursos. Este comando de Linux ordenará la lista por uso de CPU, de modo que el proceso que consuma más recursos se colocará en la parte superior. También es útil para comprobar si un proceso específico se está ejecutando.
+
+Un proceso puede iniciarse como proceso en primer plano o en segundo plano. A cada proceso Linux se le asigna un único PID (número de identificación del proceso). 
+
+Ocasionalmente, los procesos pueden consumir muchos recursos y necesitan ser eliminados. También puede ocurrir que quieras cambiar el nivel de prioridad de un proceso, para que el sistema le asigne más recursos. Independientemente del caso, todas estas tareas requieren que hagas lo mismo: listar los procesos en ejecución en Linux

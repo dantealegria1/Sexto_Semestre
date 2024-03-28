@@ -53,8 +53,8 @@ def Filtar_Palabras(Palabras):
         tokens = word_tokenize(review)
         stopwords_ingles = set(stopwords.words('english'))
         Palabras_Filtradas.extend([Palabra.lower() for Palabra in tokens
-                                   if Palabra.isalpha() and Palabra.lower()
-                                   not in stopwords_ingles and Palabra.lower() not in PROHIBIDAS])
+                                if Palabra.isalpha() and Palabra.lower()
+                                not in stopwords_ingles and Palabra.lower() not in PROHIBIDAS])
     return Palabras_Filtradas
 
 #Funcion para Obtener la probabilidad de una palabra en una review

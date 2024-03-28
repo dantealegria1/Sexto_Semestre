@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Apuntes.md",
+                "file": "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "928702c168ea53e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b3247e456c89a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3bef3c8a9f54519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmo glotón para el problema de coloreo de grafos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -85,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Apuntes.md",
+                "file": "Algoritmo glotón para el problema de coloreo de grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Apuntes.md",
+                "file": "Algoritmo glotón para el problema de coloreo de grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Apuntes.md"
+                "file": "Algoritmo glotón para el problema de coloreo de grafos.md"
               }
             }
           },
@@ -156,8 +194,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a433b1e429b1b771",
+  "active": "e3bef3c8a9f54519",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
+    "Algoritmo glotón para el problema de coloreo de grafos.md",
+    "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
+    "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
+    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Sistemas_Operativos/Apuntes.md",
+    "Aprendizaje inteligente/Unidad-2/Conceptos.md",
+    "Aprendizaje inteligente/Unidad-1",
+    "Aprendizaje inteligente/Unidad-2",
+    "Pasted image 20240325124434.png",
+    "Teoria de la complejidad computacional/Unidad 2/Problemas de Satisfabilidad de una función booleana.md",
+    "Teoria de la complejidad computacional/Unidad 2/tarea Problemas NP y P.md",
     "Teoria de la complejidad computacional/Unidad 2/Problemas No polinomiales.md",
     "Teoria de la complejidad computacional/Unidad 2/Problema NP.md",
     "Pasted image 20240317205636.png",
@@ -165,10 +216,6 @@
     "Pasted image 20240317194950.png",
     "tarea Problemas NP y P.md",
     "Pasted image 20240317165319.png",
-    "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
-    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
-    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
-    "Sistemas_Operativos/Apuntes.md",
     "Imagenes/Pasted image 20240307122627.png",
     "Imagenes/Pasted image 20240304122121.png",
     "Imagenes/Pasted image 20240302224812.png",
@@ -187,24 +234,15 @@
     "Teoria de la complejidad computacional/Unidad 1",
     "Teoria de la complejidad computacional/Unidad 1/TAREA 2 - Ejercicios de Práctica de la Complejidad de Algoritmos.md",
     "Sistemas_Operativos/Unidad 1/Tarjetas de estudio.md",
-    "Sistemas_Operativos/Repaso Unidad 1.md",
+    "Sistemas_Operativos/Unidad 1/Repaso Unidad 1.md",
     "Sistemas_Operativos/Unidad 1/Interrupciones.md",
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "Imagenes/Pasted image 20240229180640.png",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.md",
     "Imagenes/Pasted image 20240229180342.png",
-    "Sistemas_Operativos/Unidad 1/Presentacion.pdf",
     "Highlights for Presentacion.md",
     "Carry On! - Virna Sheard.md",
-    "Sistemas_Operativos/Unidad 1/Unix.md",
-    "Sistemas_Operativos/Unidad 1/Técnicas de comunicación de I,O.md",
-    "Sistemas_Operativos/Unidad 1/Evolucion_SO.md",
-    "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
-    "Imagenes/Pasted image 20240228122520.png",
-    "Sistemas_Operativos/Unidad 1/Presentacion.md",
-    "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
-    "Sistemas_Operativos/Unidad 2/81B5D100",
-    "Aprendizaje inteligente/Aprendizzaje inteligente.canvas",
+    "Aprendizaje inteligente/Unidad-1/Aprendizzaje inteligente.canvas",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"
   ]
