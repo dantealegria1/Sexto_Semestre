@@ -1,1 +1,0 @@
-%USERPROFILE%\AppData\Local\nvim

@@ -404,6 +404,7 @@ ooYg
 oXi
 oSy
 oBN
+optima
 Type
 Transparency
 Tabs
@@ -846,6 +847,7 @@ CLF
 CEf
 Cev
 CgZ
+Completos
 Lang
 Length
 LcL
@@ -1413,6 +1415,7 @@ ewQ
 evk
 ezN
 eoQ
+extremo
 StructTreeRoot
 StructParents
 SEPAZS
@@ -1633,6 +1636,7 @@ SyM
 SOO
 SXV
 Svn
+Shell
 MarkInfo
 Marked
 Metadata
@@ -2142,6 +2146,7 @@ tbt
 tgB
 tZz
 tuH
+transformacion
 ViewerPreferences
 Vj
 VT
@@ -2344,6 +2349,7 @@ Vyv
 VtW
 Vp
 Vgb
+Vendedor
 Kids
 Ko
 Ks
@@ -2867,6 +2873,7 @@ FUZ
 FXaUC
 FBx
 FMn
+Factorial
 ExtGState
 Ef
 Encoding
@@ -3085,6 +3092,8 @@ EGL
 EkB
 Eez
 EKJ
+Existe
+Encontrar
 GS
 Group
 GlP
@@ -3657,6 +3666,7 @@ IsLe
 IJq
 IDATr
 IiJ
+Imposible
 DeviceRGB
 Descent
 Dx
@@ -3858,6 +3868,7 @@ DIs
 DKs
 Dkn
 Dtl
+Diferencias
 stream
 sT
 sK
@@ -4207,6 +4218,7 @@ sIg
 sWQ
 syp
 sbw
+secuencial
 Ap
 Ax
 Am
@@ -4425,6 +4437,7 @@ AoK
 Ady
 AmT
 ACh
+Agente
 hn
 hI
 hk
@@ -5000,6 +5013,7 @@ paY
 pqNü
 pcB
 pNT
+polinomico
 rx
 ro
 rn
@@ -5298,6 +5312,7 @@ rUQ
 rtrB
 rda
 rLr
+resolucion
 xs
 xp
 xQ
@@ -6226,6 +6241,7 @@ dSK
 dsF
 dUO
 dnu
+deterministas
 jM
 je
 js
@@ -6385,6 +6401,7 @@ jHs
 jvn
 jFS
 jgqj
+justifique
 QaC
 QZK
 Qq
@@ -6839,6 +6856,7 @@ qwyp
 qrH
 qkZ
 qeMiC
+quelos
 lO
 lQC
 lWJ
@@ -7322,6 +7340,7 @@ bH
 bfW
 bWh
 bEyb
+busqueda
 aR
 aC
 aJ
@@ -7685,6 +7704,7 @@ azj
 aRd
 aZB
 apX
+arista
 iK
 iS
 iW
@@ -9198,6 +9218,9 @@ cZR
 cnSH
 cBh
 cGO
+clasif
+conocidos
+correcta
 JyVD
 Jx
 Jn
@@ -9981,6 +10004,7 @@ mkb
 mnl
 mxte
 mÄ
+mejores
 wa
 wx
 wv
@@ -10516,6 +10540,7 @@ vRl
 vBg
 vzRg
 vOGx
+viajero
 kn
 kr
 ke
@@ -10858,6 +10883,7 @@ OIS
 OIb
 Ots
 Oeh
+Ordenamiento
 HM
 HHi
 HPZ
