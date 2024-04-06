@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "translucency": false
 }

@@ -109,7 +109,7 @@ Un proceso que no esta en la sección puede obligar a que otro proceso espere mu
 
 ### Mecanismos de sincronacion
 
-**Mutex
+#### **Mutex
 
 Una de las alternativas para evitar la espera activa a lo que obliga el algoritmo de Peterson se llama mutex o candado
 
@@ -126,7 +126,7 @@ Un área de exclusión mutua debe:
 - Ser mínima: Tan corta como puedas 
 - Ser completa: Se debe analizar bien cual área proteger y no arriesgarse a proteger menos
 
-**Semáforos**
+#### **Semáforos**
 
 En 1968 se propusieron los semáforos
 
@@ -140,7 +140,7 @@ Cuando un hilo decrementa el semáforo, si el valor es negativo el hilo se bloqu
 Cuando un hilo incrementa el semáforo, si hay hilos esperando uno de ellos es desperado. También se le llma signal, up, relase, post o V
 
 
-**Bloqueo mutuo e inanición**
+#### Bloqueo mutuo e inanición**
 
 *Bloqueo mutuo*
 
@@ -148,7 +148,7 @@ Cuando hay concurrencia hay que asegurarnos aparte de que sea atómico:
 
 *Bloqueo mutuo*: Cuando dos o mas procesos poseen determinados recursos y ambos quedan detenidos, esperando a que el otro acabe. El sistema puede seguir pero ningún proceso puede avanzar
 
-*Inanición*: Cuando un proceso no puede avanzar dado que necesita recursos asignados a otros procesos
+*Inanición* Cuando un proceso no puede avanzar dado que necesita recursos asignados a otros procesos
 
 
 ## Ver procesos en UNIX
