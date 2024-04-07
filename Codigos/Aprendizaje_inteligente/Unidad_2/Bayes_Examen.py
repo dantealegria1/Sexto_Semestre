@@ -134,7 +134,7 @@ def Matriz_Confusion(dataset, Palabras_Positivas, Palabras_Negativas):
     plt.title("Matriz de Confusión")
     plt.show()
 
-
+    return precision, false_positive_rate, false_negative_rate, error_rate, positive_predictive_value, negative_predictive_value
 
 def main():
     # Dividir el conjunto de datos en entrenamiento y prueba (70% entrenamiento, 30% prueba)
