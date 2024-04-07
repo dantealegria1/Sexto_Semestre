@@ -5,6 +5,9 @@ import pandas as pd
 from collections import Counter
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt
+
 
 # Descargar datos necesarios para nltk
 #nltk.download('punkt')
@@ -113,20 +116,25 @@ def Matriz_Confusion(dataset, Palabras_Positivas, Palabras_Negativas):
             y_pred.append(1)
         if Pruebas(Palabras_Positivas, Palabras_Negativas, dataset["comment"].iloc[i],dataset) == 0:
             y_pred.append(0)
-            print("Comentario")
-            print(dataset["comment"].iloc[i] + "\n")
-    tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
-    Presicion = (tn+tp)/(tn+fp+fn+tp)
-    FalsosPositivos = fp/(tn+fp)
-    FalsosNegativos = fn/(fn+tp)
-    Error = 1-Presicion
-    AcertividadPositiva = tp/(fp+tp)
-    if tn + fn == 0:
-        AcertividadNegativa = 0 # or 1, depending on your preference
-    else:
-        AcertividadNegativa = tn / (tn + fn)
 
-    return Presicion, FalsosPositivos, FalsosNegativos, Error, AcertividadPositiva, AcertividadNegativa
+    cm = confusion_matrix(y_true, y_pred)
+    
+    tn, fp, fn, tp = cm.ravel()
+    precision = (tp + tn) / (tp + tn + fp + fn)
+    false_positive_rate = fp / (tn + fp)
+    false_negative_rate = fn / (fn + tp)
+    error_rate = 1 - precision
+    positive_predictive_value = tp / (fp + tp)
+    negative_predictive_value = tn / (tn + fn) if tn + fn != 0 else 0
+
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(cm, annot=True, fmt="d", cmap="Blues", annot_kws={"size": 16})
+    plt.xlabel("Etiquetas Predichas")
+    plt.ylabel("Etiquetas Verdaderas")
+    plt.title("Matriz de Confusión")
+    plt.show()
+
+
 
 def main():
     # Dividir el conjunto de datos en entrenamiento y prueba (70% entrenamiento, 30% prueba)
@@ -154,6 +162,7 @@ def main():
 
     print("Precision Global, Falsos Positivos, Falsos Negativos, Error Global, Acertividad Positiva, Acertividad Negativa\n")
     print(Matriz_Confusion(df_test, Palabras_Positivas_train, Palabras_Negativas_train))
+
 
 if __name__ == "__main__":
     main()
