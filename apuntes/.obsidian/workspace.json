@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c03f23064cd9e83b",
+        "id": "1dc67f2bdaf737b0",
         "type": "tabs",
         "children": [
           {
-            "id": "864e153f586eb7d8",
+            "id": "564efccee3f5c8d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Algoritmo glotón para el problema de coloreo de grafos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99788ccc97649e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md",
+                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md",
+                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md",
+                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md"
+                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md"
               }
             }
           },
@@ -167,28 +155,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c9e7db5845c3142",
+  "active": "564efccee3f5c8d8",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Unidad 2/Sincronizacion y exclusion mutua.md",
+    "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
+    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
+    "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
+    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
+    "Sistemas_Operativos/Apuntes.md",
+    "Emprendedores/Tarea 1.pdf",
+    "Teoria de la complejidad computacional/Unidad 2/IMG_674715E17567-1.jpeg",
+    "Imagenes/dgLewGYPxIwCXULE.png",
+    "Problema de Clique máximo y De la mochila.md",
+    "Teoria de la complejidad computacional/Unidad 2/Problemas P y NP.md",
+    "Teoria de la complejidad computacional/Unidad 2/Problemas de Satisfabilidad de una función booleana.md",
+    "Teoria de la complejidad computacional/Unidad 2/Ejercicios Sobre Problemas P,NP, NP completos.md",
+    "Teoria de la complejidad computacional/Unidad 2/Algoritmo glotón para el problema de coloreo de grafos.md",
+    "Teoria de la complejidad computacional/Unidad 2/Algoritmos deterministas y no deterministas.md",
+    "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
+    "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Implicito.md",
+    "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
     "Imagenes/CBVecwDkxdThyExW 1.png",
     "Imagenes/CBVecwDkxdThyExW.png",
-    "Teoria de la complejidad computacional/Unidad 2/Algoritmo glotón para el problema de coloreo de grafos.md",
     "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md",
-    "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
-    "Teoria de la complejidad computacional/Unidad 2/Problemas de Satisfabilidad de una función booleana.md",
-    "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
-    "Teoria de la complejidad computacional/Unidad 2/Problemas P y NP.md",
-    "Teoria de la complejidad computacional/Unidad 2/Ejercicios Sobre Problemas P,NP, NP completos.md",
     "Otros",
     "Imagenes/Pasted image 20240404082719.png",
     "Teoria de la complejidad computacional/Unidad 2/Tareas",
@@ -201,31 +201,19 @@
     "Sistemas_Operativos/Unidad 1/Memoria cache.md",
     "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
     "Sistemas_Operativos/Unidad 1/Memoria.md",
-    "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
-    "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
-    "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
-    "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
     "Otros/Direccion de la carpeta.md",
     "Otros/NVIM.md",
     "Imagenes/Pasted image 20240325124434.png",
-    "Sistemas_Operativos/Apuntes.md",
-    "Aprendizaje inteligente/Unidad-2/Conceptos.md",
     "Aprendizaje inteligente/Unidad-1",
     "Aprendizaje inteligente/Unidad-2",
     "Pasted image 20240317205636.png",
     "Pasted image 20240317202033.png",
     "Pasted image 20240317194950.png",
-    "tarea Problemas NP y P.md",
     "Pasted image 20240317165319.png",
-    "Imagenes/Pasted image 20240307122627.png",
-    "Imagenes/Pasted image 20240304122121.png",
-    "Imagenes/Pasted image 20240302224812.png",
-    "Etica/Infografia.md",
     "Sistemas_Operativos/Unidad 2/4F59F400",
     "Sistemas_Operativos/Unidad 2/tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
     "Sistemas_Operativos/Unidad 2/E3E6D400",
     "Sistemas_Operativos/Unidad 2/~$tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
-    "Sistemas_Operativos/Unidad 2/3386D400",
     "Aprendizaje inteligente/Unidad-1/Aprendizzaje inteligente.canvas",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"
