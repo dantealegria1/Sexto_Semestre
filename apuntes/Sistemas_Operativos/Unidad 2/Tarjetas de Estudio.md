@@ -107,3 +107,15 @@
 
 32. Que se hace ante un fallo de pagina
 	 - hay que localizar la página solicitada en el disco, cargarla en memoria y reiniciar la instrucción.​
+
+33. Paginacion previa
+	- Se cargan paginas distintas a las demandas debido a un fallo de pagina. Esta politica no es efectiva si la mayoria de las paginas extra que se traen no se referencian
+
+34. POLÍTICAS DE UBICACIÓN
+	- Tiene que ver con determinar donde va a residir una parte de un proceso en la memoria principal, es importante en el diseno de un sistema puro de segmentacion
+
+35. Politica de reemplazo
+	- Trata de la seleccion de la pagina a reemplazar en la memoria principal cuando se debe cargar una nueva pagina
+
+36. Politica de vaciado
+	- Se preocupa de determinar el momento en que hay que escribnir en la memoria secundaria una pagina modificada

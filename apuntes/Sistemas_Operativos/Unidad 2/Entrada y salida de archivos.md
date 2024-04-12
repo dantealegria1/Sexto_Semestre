@@ -6,11 +6,11 @@
 	- **comunicacion**: adecuados para dispositivos remotos por ejemplo controladores de. Una línea digital 
 
 - Hay grandes diferencias entre distintas categorías e incluso dentro de cada una, entre las inferencias fundamentales se encuentran
-- **Velocidad de transferencia de datos**: puede haber diferencias de varios órdenes de magnitud ente las velocidades de transferencia de datos
-
-- **Aplicación**: el uso está destinado un dispositivo tiene influencia en el SW u en ,s políticas del S.O y de las herramientas que le dan soporte
-
- - **Complejidad de control:** cada dispositivo  puede tener una interfaz de control desde sencilla hasta compleja, por ejemplo la impresiona puede ser sencilla lefo un disco es mucho más complejo
+	- **Velocidad de transferencia de datos**: puede haber diferencias de varios órdenes de magnitud ente las velocidades de transferencia de datos
+	 
+	- **Aplicación**: el uso está destinado un dispositivo tiene influencia en el SW u en ,s políticas del S.O y de las herramientas que le dan soporte
+	
+	 - **Complejidad de control:** cada dispositivo  puede tener una interfaz de control desde sencilla hasta compleja, por ejemplo la impresiona puede ser sencilla lefo un disco es mucho más complejo
 ##### Unidad de transferencia
 - Los datos pueden transferirse como un flujo de bytes o de caracteres
 ##### Representación de datos
