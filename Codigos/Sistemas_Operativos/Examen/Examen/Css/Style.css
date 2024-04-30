@@ -1,0 +1,56 @@
+﻿/* Estilo para la tabla */
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden; /* Para ocultar los bordes que sobresalen */
+    border: 2px solid black; /* Borde negro */
+}
+
+/* Estilo para las celdas de encabezado */
+th {
+    background-color: #8a2be2; /* Morado */
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Estilo para las celdas de datos */
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd; /* Línea divisoria gris */
+}
+
+/* Estilo para la primera celda de cada fila */
+tr:first-child td {
+    border-top: 1px solid #ddd; /* Línea divisoria gris */
+}
+
+/* Estilo para la última celda de cada fila */
+tr:last-child td {
+    border-bottom: none; /* Eliminar la línea divisoria en la última fila */
+}
+
+/* Estilo para las celdas impares */
+tr:nth-child(odd) td {
+    background-color: #f2f2f2; /* Color de fondo gris claro */
+}
+.table-container {
+  position: relative;
+}
+
+/* Estilo para el botón */
+#add-button {
+  padding: 10px 20px;
+  background-color: #8a2be2;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+/* Estilo para el botón cuando se pasa el ratón sobre él */
+#add-button:hover {
+  background-color: #6a1a9a; /* Cambia el color al morado más oscuro */
+}
