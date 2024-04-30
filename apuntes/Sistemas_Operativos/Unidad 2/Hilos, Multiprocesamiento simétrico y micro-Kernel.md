@@ -11,14 +11,12 @@ Los hilos son *procesos ligeros*
 Los procesos usualmente tienen una tabla muy pesada, por eso se crearon los hilos
 
 Un proceso puede tener varios hilos, son porciones del proceso en ejecución
-
 ### Ventajas
 
 - Su tiempo de respuesta mejora
 - Comparte recursos por que los hilos comparten la memoria y recursos del proceso al que pertenecen 
 - Economía, es mas fácil crear y cambiar de contexto en los hilos que en los procesos
 - Utilización de múltiples CPU
-
 ### Tipos
 
 Existen los hilos a nivel de usuario y a nivel de kernel 
@@ -29,7 +27,6 @@ Existen los hilos a nivel de usuario y a nivel de kernel
 
 **A nivel de kernel:**
 - son gestionados y creados por el sistema operativo
-
 ### Formas de relacionar los hilos del kernel y el usuario
 
 **Múltiples hilos de usuarios a un hilo del kernel**
@@ -70,7 +67,6 @@ Un sistema con la arquitectura de micro-Kernel no es fácil de desarrollar ya qu
 ## Concurrencia
 
 Desde el punto de vista formal la concurrencia no se refiere a dos o mas eventos que ocurren a la vez sino a dos o mas eventos cuyo orden es no determinista, ósea eventos acerca los cuales no se puede predecir el orden relativo en que ocurrirán 
-
 ### Conceptos
 
 **Operación atómica**
@@ -137,10 +133,8 @@ Se puede inicializar el semáforo a cualquier valor entero, pero después de est
 Cuando un hilo decrementa el semáforo, si el valor es negativo el hilo se bloquea y no puede continuar hasta que otro hilo incrementé el semáforo. También se le llama wait, down o acquire
 
 *Incrementar*
-Cuando un hilo incrementa el semáforo, si hay hilos esperando uno de ellos es desperado. También se le llma signal, up, relase, post o V
-
-
-#### Bloqueo mutuo e inanición**
+Cuando un hilo incrementa el semáforo, si hay hilos esperando uno de ellos es desperado. También se le llama signal, up, relase, post o V
+#### Bloqueo mutuo e inanición
 
 *Bloqueo mutuo*
 
@@ -149,8 +143,6 @@ Cuando hay concurrencia hay que asegurarnos aparte de que sea atómico:
 *Bloqueo mutuo*: Cuando dos o mas procesos poseen determinados recursos y ambos quedan detenidos, esperando a que el otro acabe. El sistema puede seguir pero ningún proceso puede avanzar
 
 *Inanición* Cuando un proceso no puede avanzar dado que necesita recursos asignados a otros procesos
-
-
 ## Ver procesos en UNIX
 
 - **PS:** Muestra todos los procesos
