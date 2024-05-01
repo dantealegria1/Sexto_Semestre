@@ -4,8 +4,6 @@
 
 Encuentre en el siguiente grafo G= (V,E) el siguiente grafo completo mas grande que contenga
 
- 
-
 *Matriz de adyacencia*
 0, 1, 1, 1, 1, 0, 
 1, 0, 1, 0, 0, 0, 
