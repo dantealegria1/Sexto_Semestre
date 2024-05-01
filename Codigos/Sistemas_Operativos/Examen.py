@@ -1,5 +1,6 @@
 #---------------------------------------------------
 # Dante Alejandro Alegria Romero
+# Andrea Margarita Balandran Felix
 # Examen segundo parcial
 #---------------------------------------------------
 #LIBRERIAS NECESARIAS
@@ -150,9 +151,10 @@ def main():
         print("-----------------------------------")
         input("Presione enter para continuar..." + '\n')
         main()
+    elif opcion == 3:
+        exit()
     else:
         print("Opcion no valida")
-
 
 if __name__ == "__main__":
     main()
