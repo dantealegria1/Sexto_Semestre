@@ -8,3 +8,5 @@
 - En una Máquina de Turing No Determinística, en un estado y con un símbolo dado, la máquina tiene múltiples opciones para la transición.
 - En lugar de una transición única, la MTND puede estar en varios estados simultáneamente y explorar múltiples posibles caminos de cómputo al mismo tiempo.
 - La aceptación de una entrada por parte de una MTND se basa en la existencia de al menos un camino de cómputo que lleva a un estado de aceptación.
+
+En resumen 1.- Saber la relación entre los tres conjuntos de problemas, P, NP y NP- completos, para ello debe saber pintar el diagrama de Venn, donde se relacionan los conjuntos, Cual conjunto es subconjunto de otro, cuales conjuntos tienen intersección vacía. 

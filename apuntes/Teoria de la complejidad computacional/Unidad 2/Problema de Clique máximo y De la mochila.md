@@ -12,8 +12,9 @@ Encuentre en el siguiente grafo G= (V,E) el siguiente grafo completo mas grande 
 1, 0, 1, 1, 0, 0, 
 0, 0, 1, 0, 0, 0, 
 
-
 (4 - 1)! = 6
 4 por que es el largo del arbol
 1 por que elegi el 1 para inicial
 3! = 6
+
+![[Pasted image 20240501174828.png]]

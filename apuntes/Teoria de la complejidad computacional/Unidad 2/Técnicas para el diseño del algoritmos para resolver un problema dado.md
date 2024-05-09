@@ -1,4 +1,3 @@
-
 ## Diseño de un algoritmo glotón
 
 Diseñar el algoritmo glotón para el problema del viajante de comercio *En la iteración donde se encuentre el algoritmo decidir tomar la mejor pieza para encontrar la solución*
