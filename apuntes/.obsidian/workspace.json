@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
+                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
+                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
+                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_Operativos/Unidad 2/Memoria Virtual.md"
+                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md"
               }
             }
           },
@@ -168,8 +168,20 @@
   },
   "active": "564efccee3f5c8d8",
   "lastOpenFiles": [
-    "Sistemas_Operativos/Unidad 2/Sincronizacion y exclusion mutua.md",
+    "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.pdf",
+    "Pasted image 20240511171426.png",
+    "Pasted image 20240511170856.png",
+    "Pasted image 20240511170728.png",
+    "Pasted image 20240511170510.png",
+    "Etica/Preguntas.md",
+    "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
+    "Teoria de la complejidad computacional/Unidad_3",
+    "Teoria de la complejidad computacional/Unidad 2/REPASO.md",
+    "Teoria de la complejidad computacional/Unidad 2/Pasted image 20240429194637.png",
+    "Teoria de la complejidad computacional/Unidad 2/GUIA PARCIAL 2.pdf",
+    "Aprendizaje inteligente/Unidad 3/K-means.md",
     "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
+    "Sistemas_Operativos/Unidad 2/Sincronizacion y exclusion mutua.md",
     "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
     "Sistemas_Operativos/Unidad 2/Hilos, Multiprocesamiento simétrico y micro-Kernel.md",
     "Sistemas_Operativos/Unidad 2/Procesos y manejo de memoria.md",
@@ -198,22 +210,10 @@
     "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
     "Sistemas_Operativos/Unidad 1/Técnicas de comunicación de I,O.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
-    "Sistemas_Operativos/Unidad 1/Memoria cache.md",
-    "Sistemas_Operativos/Unidad 1/Registros de procesos.md",
-    "Sistemas_Operativos/Unidad 1/Memoria.md",
-    "Otros/Direccion de la carpeta.md",
-    "Otros/NVIM.md",
-    "Imagenes/Pasted image 20240325124434.png",
     "Aprendizaje inteligente/Unidad-1",
     "Aprendizaje inteligente/Unidad-2",
-    "Pasted image 20240317205636.png",
-    "Pasted image 20240317202033.png",
-    "Pasted image 20240317194950.png",
-    "Pasted image 20240317165319.png",
     "Sistemas_Operativos/Unidad 2/4F59F400",
     "Sistemas_Operativos/Unidad 2/tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
-    "Sistemas_Operativos/Unidad 2/E3E6D400",
-    "Sistemas_Operativos/Unidad 2/~$tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
     "Aprendizaje inteligente/Unidad-1/Aprendizzaje inteligente.canvas",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"
