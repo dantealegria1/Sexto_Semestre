@@ -11,11 +11,9 @@
             "id": "564efccee3f5c8d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
-                "mode": "source",
-                "source": false
+                "file": "Imagenes/Pasted image 20240516084344.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
+                "file": "Imagenes/Pasted image 20240516084344.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
+                "file": "Imagenes/Pasted image 20240516084344.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md"
+                "file": "Imagenes/Pasted image 20240516084344.png"
               }
             }
           },
@@ -166,20 +163,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "564efccee3f5c8d8",
+  "active": "9c9e7db5845c3142",
   "lastOpenFiles": [
+    "Aprendizaje inteligente/Unidad 3/Clustering Jerárquico.md",
+    "Teoria de la complejidad computacional/Unidad_3/Clustering Jerárquico.pdf",
+    "Imagenes/Pasted image 20240516084344.png",
+    "Imagenes/Pasted image 20240516083245.png",
+    "Imagenes/Pasted image 20240516083231.png",
+    "Aprendizaje inteligente/Unidad 3/K-means.md",
+    "Teoria de la complejidad computacional/Unidad_3/Programación Dinamica.md",
+    "Teoria de la complejidad computacional/Unidad_3/Divide y venceras.pdf",
     "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.pdf",
-    "Pasted image 20240511171426.png",
-    "Pasted image 20240511170856.png",
-    "Pasted image 20240511170728.png",
-    "Pasted image 20240511170510.png",
-    "Etica/Preguntas.md",
     "Teoria de la complejidad computacional/Unidad_3/Problema del Agente Viajero.md",
+    "Imagenes/Pasted image 20240511170856.png",
+    "Imagenes/Pasted image 20240511170728.png",
+    "Imagenes/Pasted image 20240511170510.png",
+    "Teoria de la complejidad computacional/Unidad_3/Divide y venceras.md",
+    "Imagenes/Pasted image 20240511171426.png",
+    "Etica/Preguntas.md",
     "Teoria de la complejidad computacional/Unidad_3",
     "Teoria de la complejidad computacional/Unidad 2/REPASO.md",
     "Teoria de la complejidad computacional/Unidad 2/Pasted image 20240429194637.png",
     "Teoria de la complejidad computacional/Unidad 2/GUIA PARCIAL 2.pdf",
-    "Aprendizaje inteligente/Unidad 3/K-means.md",
     "Sistemas_Operativos/Unidad 2/Memoria Virtual.md",
     "Sistemas_Operativos/Unidad 2/Sincronizacion y exclusion mutua.md",
     "Sistemas_Operativos/Unidad 2/MANEJO DE PROCESOS.md",
@@ -198,22 +203,13 @@
     "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
     "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Implicito.md",
     "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
-    "Imagenes/CBVecwDkxdThyExW 1.png",
-    "Imagenes/CBVecwDkxdThyExW.png",
     "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md",
     "Otros",
-    "Imagenes/Pasted image 20240404082719.png",
     "Teoria de la complejidad computacional/Unidad 2/Tareas",
     "Teoria de la complejidad computacional/Unidad 2/Tareas/tarea Problemas NP y P.md",
     "Teoria de la complejidad computacional/Unidad 2/Tareas/Tarea Problemas No polinomiales.md",
-    "Teoria de la complejidad computacional/Unidad 2/Tareas/Tarea Problema NP.md",
-    "Sistemas_Operativos/Unidad 1/Introduccion a los sistemas operativos.md",
-    "Sistemas_Operativos/Unidad 1/Técnicas de comunicación de I,O.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
     "Aprendizaje inteligente/Unidad-1",
-    "Aprendizaje inteligente/Unidad-2",
-    "Sistemas_Operativos/Unidad 2/4F59F400",
-    "Sistemas_Operativos/Unidad 2/tarea Algoritmos de planificación de procesos Dante Alegria.xlsx",
     "Aprendizaje inteligente/Unidad-1/Aprendizzaje inteligente.canvas",
     "Emprendedores/Untitled.canvas",
     "Untitled 1.canvas"
