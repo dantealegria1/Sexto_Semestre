@@ -34,6 +34,15 @@ def cortar_varilla_D(varilla, memoria):
     memoria[varilla] = maximo
     return maximo
 
+def cortar_varilla_iterativo(varilla):
+    memoria = np.zeros(varilla + 1)
+    for i in range(1, varilla + 1):
+        maximo = -1
+        for j in range(1, i + 1):
+            maximo = max(maximo, precios[j - 1] + memoria[i - j])
+        memoria[i] = maximo 
+    return memoria[varilla]
+
 def main():
     print("Sin programación dinámica")
     print(cortar_varilla_SD(TAMAÑO_VARILLA))

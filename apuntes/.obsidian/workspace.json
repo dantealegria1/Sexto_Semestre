@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc67f2bdaf737b0",
+        "id": "e3389f6de0b61d87",
         "type": "tabs",
         "children": [
           {
-            "id": "564efccee3f5c8d8",
+            "id": "b6969d92d99c5929",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20240516084344.png"
+                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34068af95d38e5f2",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Pasted image 20240516084344.png",
+                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Pasted image 20240516084344.png",
+                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Pasted image 20240516084344.png"
+                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md"
               }
             }
           },
@@ -163,11 +166,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c9e7db5845c3142",
+  "active": "b6969d92d99c5929",
   "lastOpenFiles": [
+    "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
+    "Imagenes/Pasted image 20240516084344.png",
     "Aprendizaje inteligente/Unidad 3/Clustering Jerárquico.md",
     "Teoria de la complejidad computacional/Unidad_3/Clustering Jerárquico.pdf",
-    "Imagenes/Pasted image 20240516084344.png",
     "Imagenes/Pasted image 20240516083245.png",
     "Imagenes/Pasted image 20240516083231.png",
     "Aprendizaje inteligente/Unidad 3/K-means.md",
