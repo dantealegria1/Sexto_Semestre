@@ -1,9 +1,11 @@
 {
   "accentColor": "#5ea0b0",
-  "cssTheme": "Things",
+  "cssTheme": "GitHub Theme",
   "theme": "obsidian",
   "showViewHeader": true,
   "nativeMenus": true,
   "translucency": false,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "textFontFamily": "Cascadia Code,CaskaydiaCove Nerd Font",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font"
 }
