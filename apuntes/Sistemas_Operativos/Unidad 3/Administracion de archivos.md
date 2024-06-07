@@ -16,6 +16,6 @@ El *Sistema de archivos* proporciona las abstracciones de recursos asociadas con
 
 Los archivos son administrados por el SO se le conoce como sistema de archivos
 
-Desde el punto de vista del usuario el aspecto mas importante es su apariencia es decir como se construye un archivo, como se denominan y protegen los archivos. Lo demas tecnico no ineteresa pero es importante
+Desde el punto de vista del usuario el aspecto mas importante es su apariencia es decir como se construye un archivo, como se denominan y protegen los archivos. Lo demás técnico no interesa pero es importante
 
 As
