@@ -21,14 +21,14 @@
 	- Exige aspirar a la excelencia, entendida esta como el compromiso que se tiene con las personas concretas con las cuales tiene un contrato no sólo legal, sino también ético, nacido del reconocimiento de su dignidad como personas.
 
 3.        **¿A qué se refieren los bienes intrínsecos y los bienes extrínsecos, respectivamente?**
-- ### Bienes Intrínsecos
+- ###### Bienes Intrínsecos
 	- **Definición**: Son aquellos bienes que poseen valor por sí mismos, independientemente de sus consecuencias o de cualquier otra consideración externa.
 	- **Enfoque**: Se centran en el valor inherente o esencial que algo tiene.
 	- **Ejemplos**:
 	    - **Felicidad**: Considerada valiosa por sí misma.
 	    - **Virtud**: La integridad o la bondad se valoran por lo que son, no por lo que producen.
 	    - **Vida**: A menudo vista como un bien intrínseco, valiosa por el mero hecho de existir.
-- ### Bienes extrínsecos
+- ###### Bienes extrínsecos
 	- **Definición**: Son aquellos bienes cuyo valor depende de sus consecuencias, usos o de alguna otra consideración externa.
 	- **Enfoque**: Se centran en el valor que algo tiene como medio para alcanzar un fin o por sus efectos.
 	- **Ejemplos**:
