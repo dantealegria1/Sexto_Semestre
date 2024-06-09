@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e3389f6de0b61d87",
+        "id": "9829df17b3d206ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b6969d92d99c5929",
+            "id": "d790abf143666fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,19 +148,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6969d92d99c5929",
+  "active": "d790abf143666fa7",
   "lastOpenFiles": [
+    "Sistemas_Operativos/Unidad 3/Administracion de archivos.md",
+    "Sistemas_Operativos/Unidad 3/Seguridad.md",
+    "Sistemas_Operativos/Unidad 3/presentacion verde.md",
+    "Sistemas_Operativos/Unidad 3/RAID.md",
     "Teoria de la complejidad computacional/Unidad_3/Algoritmo de kruskal.md",
     "Imagenes/Pasted image 20240516084344.png",
     "Aprendizaje inteligente/Unidad 3/Clustering Jerárquico.md",
@@ -206,12 +203,8 @@
     "Teoria de la complejidad computacional/Unidad 2/Algoritmos deterministas y no deterministas.md",
     "Teoria de la complejidad computacional/Unidad 2/Técnicas para el diseño del algoritmos para resolver un problema dado.md",
     "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Implicito.md",
-    "Teoria de la complejidad computacional/Unidad 2/Maquina de turing.md",
-    "Teoria de la complejidad computacional/Unidad 2/Árbol de Búsqueda Infinito.md",
     "Otros",
     "Teoria de la complejidad computacional/Unidad 2/Tareas",
-    "Teoria de la complejidad computacional/Unidad 2/Tareas/tarea Problemas NP y P.md",
-    "Teoria de la complejidad computacional/Unidad 2/Tareas/Tarea Problemas No polinomiales.md",
     "Sistemas_Operativos/Unidad 1/Tipos de RAM y ROM.pdf",
     "Aprendizaje inteligente/Unidad-1",
     "Aprendizaje inteligente/Unidad-1/Aprendizzaje inteligente.canvas",

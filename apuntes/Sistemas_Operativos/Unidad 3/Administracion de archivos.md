@@ -16,7 +16,11 @@ El *Sistema de archivos* proporciona las abstracciones de recursos asociadas con
 
 Los archivos son administrados por el SO se le conoce como sistema de archivos
 
+<<<<<<< HEAD
+Desde el punto de vista del usuario el aspecto mas importante es su apariencia es decir como se construye un archivo, como se denominan y protegen los archivos. Lo demás técnico no interesa pero es importante
+=======
 Desde el punto de vista del usuario el aspecto mas importante es su apariencia es decir como se construye un archivo, como se denominan y protegen los archivos. Lo demas tecnico no interesa pero es importante
+>>>>>>> 7b5b9b1041b5ef0de355748a60f21a1101df2d9e
 
 #### Asignación de archivos
 
